@@ -69,4 +69,4 @@
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Juen Duo Tsai Jie, Chyi Wu Zuei Hsiang Sih.  
+ＰＨ：Yuan Juen Duo Tsai Jie, Tsih Wu Zuei Hsiang Sih.  
