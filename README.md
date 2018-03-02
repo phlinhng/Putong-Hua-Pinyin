@@ -16,9 +16,9 @@
 | | | | | | | | | |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |注音|ㄧ|ㄨ|ㄩ|ㄚ|ㄛ|ㄜ|ㄝ|ㄭ
-|ＰＨ|i|w/u*|iu|a|o|e|e|ih
-
+|ＰＨ|i|w/u*|yu*|a|o|e|e|ih
 * ㄨ當結尾時用u 其餘用w
+* ㄑㄩchyu ㄋㄩnyu ㄌㄩlyu ㄑㄩㄝchyue ㄋㄩㄝnyue ㄌㄩㄝlyue
 
 ## 複韻母
 | | | | | | | | | |
@@ -39,10 +39,14 @@
 1. 不用ê,ü這兩個帶裝飾的字母，也不用英文少見的字首q,x  
 2. 取消縮寫以維持發音，漢語拼音有縮寫規則以求行文流暢。PH拼音只做為輔助發音故保持全寫。  
 3. ㄨ在做聲母和韻母時均寫作w  
-4. ㄩ改為yu/iu（來自漢語拼音草案/國語羅馬字），ㄠ恢復為au，空韻使用ih  
+4. ㄩ改為yu（來自漢語拼音草案），ㄠ恢復為au，空韻使用ih  
 5. ㄨㄥ改為ong，以符合台灣人實際發音習慣  
 6. ㄑ改為chy（來自耶魯拼音）、ㄒ改為hs（來自WG拼音）  
 7. ㄘ改為ts（來自國語羅馬字）  
+
+# 與通用拼音的比較
+1. ㄐㄑㄒ是將漢語拼音的j,q,x改字母而不採通用拼音的ji,ci,si，省去如囧jiong/jyong的變化規則
+2. ㄓ用漢語拼音的zh
 
 # 範例
 * 標注調號的方案沒有研究，因此以下範例均不標。
@@ -53,7 +57,7 @@
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Chyiu Kuai Lian Ji Shu De Ying Yuong Yu Wei Lai  
+ＰＨ：Chyu Kuai Lian Ji Shu De Ying Yuong Yu Wei Lai  
   
 中文：為愛付出瘋狂/為夢受一點傷  
 漢拼：Wei Ai Fu Chu Feng Kuang / Wei Meng Shou Yi Dian Shang  
