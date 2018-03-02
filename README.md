@@ -8,7 +8,7 @@
 | | | | | | | | | | | | | | | |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |注音|ㄅ|ㄆ|ㄇ|ㄈ|ㄉ|ㄊ|ㄋ|ㄌ|ㄍ|ㄎ|ㄏ|ㄐ|ㄑ|ㄒ
-|ＰＨ|b|p|m|f|d|t|n|l|g|k|h|j|chy|hs
+|ＰＨ|b|p|m|f|d|t|n|l|g|k|h|j|cy|hs
 |注音|ㄓ|ㄔ|ㄕ|ㄖ|ㄗ|ㄘ|ㄙ|ㄧ|ㄨ|ㄩ
 |ＰＨ|zh|ch|sh|r|z|ts|s|y|w|yu
 
@@ -18,7 +18,7 @@
 |注音|ㄧ|ㄨ|ㄩ|ㄚ|ㄛ|ㄜ|ㄝ|ㄭ
 |ＰＨ|i|w/u*|yu*|a|o|e|e|ih
 * ㄨ當結尾時用u 其餘用w
-* ㄑㄩchyu ㄋㄩnyu ㄌㄩlyu ㄑㄩㄝchyue ㄋㄩㄝnyue ㄌㄩㄝlyue
+* ㄑㄩcyu ㄋㄩnyu ㄌㄩlyu ㄑㄩㄝcyue ㄋㄩㄝnyue ㄌㄩㄝlyue
 
 ## 複韻母
 | | | | | | | | | |
@@ -41,8 +41,8 @@
 3. ㄨ在做聲母和韻母時均寫作w  
 4. ㄩ改為yu（來自漢語拼音草案），ㄠ恢復為au，空韻使用ih  
 5. ㄨㄥ改為ong，以符合台灣人實際發音習慣  
-6. ㄑ改為chy（來自耶魯拼音）、ㄒ改為hs（來自WG拼音）  
-7. ㄘ改為ts（來自國語羅馬字）  
+6. ㄑ改為cy（來自通用拼音+耶魯拼音）、ㄒ改為hs（來自WG拼音）  
+7. ㄘ改為ts（來自國語羅馬字）  
 
 # 與通用拼音的比較
 1. ㄐㄑㄒ是將漢語拼音的j,q,x改字母而不採通用拼音的ji,ci,si，省去如囧jiong/jyong的變化規則
@@ -57,7 +57,7 @@
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Chyu Kuai Lian Jih Shu De Ying Yuong Yu Wei Lai  
+ＰＨ：Cyu Kuai Lian Jih Shu De Ying Yuong Yu Wei Lai  
   
 中文：為愛付出瘋狂/為夢受一點傷  
 漢拼：Wei Ai Fu Chu Feng Kuang / Wei Meng Shou Yi Dian Shang  
@@ -65,11 +65,11 @@
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＰＨ：Dong Bian Rih Chu Hsih Bian Yu, Dao Shih Wu Chying Chyue You Chying.  
+ＰＨ：Dong Bian Rih Chu Hsih Bian Yu, Dao Shih Wu Cying Cyue You Cying.  
   
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
-ＰＨ：Chying Chying He Pan Tsao, Yu Yu Yuan Zhong Liou.  
+ＰＨ：Cying Cying He Pan Tsao, Yu Yu Yuan Zhong Liou.  
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
