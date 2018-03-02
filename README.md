@@ -53,7 +53,7 @@
 
 中文：井水不犯河水  
 漢拼：Jing Shui Bu Fan He Shui  
-ＰＨ：Jing Shwei Bu Fan He Shwei  
+ＰＨ：Jing Shuei Bu Fan He Shuei  
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
