@@ -57,7 +57,7 @@
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Chyu Kuai Lian Ji Shu De Ying Yuong Yu Wei Lai  
+ＰＨ：Chyu Kuai Lian Jih Shu De Ying Yuong Yu Wei Lai  
   
 中文：為愛付出瘋狂/為夢受一點傷  
 漢拼：Wei Ai Fu Chu Feng Kuang / Wei Meng Shou Yi Dian Shang  
