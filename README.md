@@ -8,15 +8,15 @@
 | | | | | | | | | | | | | | | |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |注音|ㄅ|ㄆ|ㄇ|ㄈ|ㄉ|ㄊ|ㄋ|ㄌ|ㄍ|ㄎ|ㄏ|ㄐ|ㄑ|ㄒ
-|ＰＨ|b|p|m|f|d|t|n|l|g|k|h|j|cy|hs
+|ＰＨ|b|p|m|f|d|t|n|l|g|k|h|j|cy|shy
 |注音|ㄓ|ㄔ|ㄕ|ㄖ|ㄗ|ㄘ|ㄙ|ㄧ|ㄨ|ㄩ
 |ＰＨ|zh|ch|sh|r|z|ts|s|y|w|yu
 
 ## 單韻母
-| | | | | | | | | |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|注音|ㄧ|ㄨ|ㄩ|ㄚ|ㄛ|ㄜ|ㄝ|ㄭ
-|ＰＨ|i|u|yu*|a|o*|e|e|ih
+| | | | | | | | | | |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|注音|ㄧ|ㄨ|ㄩ|ㄚ|ㄛ|ㄜ|ㄝ|ㄦ|ㄭ
+|ＰＨ|i|u|yu*|a|o*|e|eh|er|ih
 * ㄑㄩcyu ㄋㄩnyu ㄌㄩlyu ㄑㄩㄝcyue ㄋㄩㄝnyue ㄌㄩㄝlyue  
 * ㄅㄛbuo ㄆㄛpuo ㄇㄛmuo ㄈㄛfuo
 
@@ -39,9 +39,9 @@
 1. 不用ê,ü這兩個帶裝飾的字母，也不用英文少見的字首q,x  
 2. 取消縮寫以維持發音。漢語拼音有縮寫規則以求行文流暢，PH拼音只做為輔助發音故保持全寫。  
 3. ㄩ改為yu（來自漢語拼音草案），ㄠ恢復為au，空韻使用ih  
-4. ㄨㄥ改為ong，以符合台灣人實際發音習慣。
+4. ㄨㄥ改為ong（来自通用拼音），以符合台灣人實際發音習慣。
 5. 增加ㄅㄆㄇㄈ+ㄛ時補ㄨ的規則，理由同第4點。  
-6. ㄑ改為cy（來自通用拼音+耶魯拼音）、ㄒ改為hs（來自WG拼音）  
+6. ㄑ改為cy（來自通用拼音+耶魯拼音）、ㄒ改為shy（來自耶魯拼音）、ㄝ改為eh（來自WG拼音）  
 7. ㄘ改為ts（來自國語羅馬字）  
 
 # 與通用拼音的比較
@@ -65,7 +65,7 @@
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＰＨ：Dong Bian Rih Chu Hsih Bian Yu, Dao Shih Wu Cying Cyue You Cying.  
+ＰＨ：Dong Bian Rih Chu Shyih Bian Yu, Dao Shih Wu Cying Cyue You Cying.  
   
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
@@ -73,4 +73,4 @@
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Juen Duo Tsai Jie, Tsih Wu Zuei Hsiang Sih.  
+ＰＨ：Yuan Juen Duo Tsai Jieh, Tsih Wu Zuei Hsiang Sih.  
