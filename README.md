@@ -61,7 +61,7 @@
   
 中文：為愛付出瘋狂/為夢受一點傷  
 漢拼：Wei Ai Fu Chu Feng Kuang / Wei Meng Shou Yi Dian Shang  
-ＰＨ：Wei Aih Fu Chu Fong Kwang / Wei Mong Shou Yih Dian Shang  
+ＰＨ：Wei Aih Fu Chu Fong Kuang / Wei Mong Shou Yih Dian Shang  
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
