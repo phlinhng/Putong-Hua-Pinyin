@@ -36,7 +36,10 @@
 * ㄩㄣ=ㄩ(yu)+ㄣ(n) = yun  
 * ㄩㄥ=ㄩ(iu)+ㄥ(ng) = iung -> iong
 
-# 與漢語拼音方案比較 Difference from Hanyu Pinyin
+# PH & Hanyu Pinyin Table
+* Click [here](https://github.com/Paravion/Putong-Hwa-Pinyin/wiki/PH-Hanyu-Pinyin-Table) for PH & Hanyu Pinyin table
+
+# 與漢語拼音方案比較 Difference with Hanyu Pinyin
 1. 不用**ê,ü**這兩個帶裝飾的字母，也不用英文少見的字首**q**,**x**  
 Remove **ê** and **ü** which are not basic Latin alphabet and **q** and **x** which are rarely used as the first capital in English.
 2. 取消縮寫以維持發音。漢語拼音有縮寫規則以求行文流暢，PH拼音只做為輔助發音故保持全寫。  
