@@ -82,4 +82,4 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Jyun Duo Tsai Jieh, Tsih Wu Zuei Shiang Sih.  
+ＰＨ：Yuan Jyun Duo Tsai Jieh, Tsih Wu Zuei Shiang Sih.
