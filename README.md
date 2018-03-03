@@ -1,4 +1,4 @@
-# Putong Hwa Pinyin 新普通話拼音
+# Putong Hua Pinyin 新普通話拼音
 漢語拼音方案設計簡潔縝密，然其為追求書寫方便而失去了一些發音特徵，用於拼寫國人之姓名時難免訛誤。  
 本方案參考漢語拼音、通用拼音、國語羅馬字、注音二式、WG拼音、耶魯拼音等華語拼音方案，供各界人士拼寫漢字時參考。
 本人非語言專業，懇請先進批評指教。
@@ -58,7 +58,7 @@
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Chyu Kuai Lian Ji Shu De Ying Yuong Yu Wei Lai  
+ＰＨ：Chyu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
   
 中文：為愛付出瘋狂/為夢受一點傷  
 漢拼：Wei Ai Fu Chu Feng Kuang / Wei Meng Shou Yi Dian Shang  
@@ -74,4 +74,5 @@
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Juen Duo Tsai Jieh, Tsih Wu Zuei Shiang Si.  
+ＰＨ：Yuan Jyun Duo Tsai Jieh, Tsih Wu Zuei Shiang Sih.  
+
