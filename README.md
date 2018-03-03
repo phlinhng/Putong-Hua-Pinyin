@@ -37,7 +37,7 @@
 * ㄩㄥ=ㄩ(iu)+ㄥ(ng) = iung -> iong
 
 # PH & Hanyu Pinyin Table
-* Click [here](https://github.com/Paravion/Putong-Hwa-Pinyin/wiki/PH-Hanyu-Pinyin-Table) for PH & Hanyu Pinyin table
+* Click [here](https://github.com/Paravion/Putong-Hwa-Pinyin/wiki/PH-&-Hanyu-Pinyin-Table) for PH & Hanyu Pinyin table
 
 # 與漢語拼音方案比較 Difference with Hanyu Pinyin
 1. 不用**ê,ü**這兩個帶裝飾的字母，也不用英文少見的字首**q**,**x**  
@@ -55,12 +55,12 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
 7. 增加**ㄅㄆㄇㄈ+ㄥ**時轉寫為**bpmf+ong**的規則，理由同第6點。  
 **beng** **peng** **meng** **feng** should be spell as **bong** **pong** **mong** **fong** for adjustment
 
-# 與通用拼音的比較
+# 與通用拼音的比較 Difference with Tongyong Pinyin
 1. **ㄑㄒ**和**ㄔㄕ**共用**ch,sh**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突
 2. **ㄐㄑㄒ**不使用通拼的**ji,chi,shi**方式，因此沒有如囧**jiong/jyong**的變化規則  
 3. **ㄓ**用漢拼的**zh**而不用通拼的**jh**
 
-# 範例
+# 範例 Example
 * 標注調號的方案沒有研究，因此以下範例均不標。
 
 中文：井水不犯河水  
@@ -86,3 +86,9 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
 ＰＨ：Yuan Jyun Duo Tsai Jieh, Tsih Wu Zuei Shiang Sih.
+
+# 感謝 Sepcial Thanks to
+感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
+  
+目前版本 Current Version: 2.0.3  
+本文最後編寫時間: Mar-03-2018 11:50PM (UTC+8)
