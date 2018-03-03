@@ -9,7 +9,7 @@
 | | | | | | | | | | | | | | | |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**注音**|ㄅ|ㄆ|ㄇ|ㄈ|ㄉ|ㄊ|ㄋ|ㄌ|ㄍ|ㄎ|ㄏ|ㄐ|ㄑ|ㄒ
-|**ＰＨ**|b|p|m|f|d|t|n|l|g|k|h|j|ch|sh
+|**ＰＨ**|b|p|m|f|d|t|n|l|g|k|h|j|c|s
 |**注音**|ㄓ|ㄔ|ㄕ|ㄖ|ㄗ|ㄘ|ㄙ|ㄧ|ㄨ|ㄩ
 |**ＰＨ**|zh|ch|sh|r|z|ts|s|y|w|yu
 
@@ -44,11 +44,11 @@
 Remove **ê** and **ü** which are not basic Latin alphabet and **q** and **x** which are rarely used as the first capital in English.
 2. 取消縮寫以維持發音。漢語拼音有縮寫規則以求行文流暢，PH拼音只做為輔助發音故保持全寫。  
 Cancel simplified rule in Hanyu Pinyin. Remain **-iu** and **-un** as **-iou-** and **-uen**
-3. **ㄑㄒ**和**ㄔㄕ**共用**ch,sh**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突。  
-Use **ch** and **sh** to represent both **ㄑ/ㄔ** and **ㄒ/ㄕ** respectively, since **ㄑㄒ** always come with **ーㄨ** and **ㄔㄕ** never come with **ーㄨ** they will not conflict with each other. eg. 七Chi 吃Chih 西Shi 師Shih
-4. **ㄘ**改為**ts**（國羅）  
-Change alphabet of **ㄘ** to **ts**（_Gwoyeu Romatzyh_）
-5. **ㄩ**改為**yu**（漢拼草案），**ㄝ**改為**eh**（威妥瑪），空韻使用**ih**（國羅）  
+3. **ㄒ**和**ㄙ**共用**s**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突。 
+Use **ch** and **sh** to represent both **ㄑ/ㄔ** and **ㄒ/ㄕ** respectively, since **ㄑㄒ** always come with **ーㄨ** and **ㄔㄕ** never come with **ーㄨ** they will not conflict with each other. eg. 七Ci 西Si 私Sih
+4. **ㄘ**改為**ts**（國羅）**ㄑ**改為**c**  
+Change alphabet of **ㄘ** to **ts**（_Gwoyeu Romatzyh_）,and let **ㄑ** take **c** 
+5. **ㄩ**改為**yu**（漢拼草案），**ㄝ**改為**eh**（威妥瑪），空韻使用**ih**（國羅）     
 Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to **eh** (_Wade–Giles_), **ㄭ** (minimal vowel of ㄓ,ㄔ,ㄕ,ㄖ,ㄗ,ㄘ,ㄙ) to **ih** (_Gwoyeu Romatzyh_) 
 6. 增加**ㄅㄆㄇ+ㄛ**時補ㄨ的規則，以符合台灣人實際發音習慣。  
 **bo** **po** **mo** should be spell as **buo** **puo** **muo** to fix the missing "u" sound
@@ -56,7 +56,7 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
 **beng** **peng** **meng** **feng** should be spell as **bong** **pong** **mong** **fong** for adjustment
 
 # 與通用拼音的比較 Difference with Tongyong Pinyin
-1. **ㄑㄒ**和**ㄔㄕ**共用**ch,sh**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突
+1. **ㄒ**和**ㄙ**共用**s**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突
 2. **ㄐㄑㄒ**不使用通拼的**ji,chi,shi**方式，因此沒有如囧**jiong/jyong**的變化規則  
 3. **ㄓ**用漢拼的**zh**而不用通拼的**jh**
 
@@ -69,7 +69,7 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Chyu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
+ＰＨ：Cyu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
   
 中文：為愛付出瘋狂/為夢受一點傷  
 漢拼：Wei Ai Fu Chu Feng Kuang / Wei Meng Shou Yi Dian Shang  
@@ -77,11 +77,11 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＰＨ：Dong Bian Rih Chu Shi Bian Yu, Dao Shih Wu Ching Chyueh You Ching.  
+ＰＨ：Dong Bian Rih Chu Si Bian Yu, Dao Shih Wu Ching Cyueh You Cing.  
   
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
-ＰＨ：Ching Ching He Pan Tsao, Yu Yu Yuan Zhong Liou.  
+ＰＨ：Cing Cing He Pan Tsao, Yu Yu Yuan Zhong Liou.  
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
@@ -90,5 +90,5 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
-目前版本 Current Version: 2.0.3  
-本文最後編寫時間: Mar-03-2018 11:50PM (UTC+8)
+目前版本 Current Version: 2.1  
+本文最後編寫時間: Mar-04-2018 01:44AM (UTC+8)
