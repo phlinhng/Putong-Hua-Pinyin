@@ -70,7 +70,7 @@
   
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
-ＰＨ：Ching Ching He Pan Tsao, Yu Yu Yuan Jung Liou.  
+ＰＨ：Ching Ching He Pan Tsao, Yu Yu Yuan Zhong Liou.  
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
