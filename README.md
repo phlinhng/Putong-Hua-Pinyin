@@ -53,7 +53,7 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
 6. 增加**ㄅㄆㄇ+ㄛ**時補ㄨ的規則，以符合台灣人實際發音習慣。  
 **bo** **po** **mo** should be spell as **buo** **puo** **muo** to fix the missing "u" sound
 7. 增加**ㄅㄆㄇㄈ+ㄥ**時轉寫為**bpmf+ong**的規則，理由同第6點。  
-**beng** **peng** **meng** **feng** should be spell as **bong* **pong** **mong** **fong** for adjustment
+**beng** **peng** **meng** **feng** should be spell as **bong** **pong** **mong** **fong** for adjustment
 
 # 與通用拼音的比較
 1. **ㄑㄒ**和**ㄔㄕ**共用**ch,sh**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突
