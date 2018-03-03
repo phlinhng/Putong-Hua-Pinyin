@@ -1,6 +1,6 @@
 # Putong Hua Pinyin 新普通話拼音
 漢語拼音方案設計簡潔縝密，然其為追求書寫方便而失去了一些發音特徵，用於拼寫國人之姓名時難免訛誤。  
-本方案參考漢語拼音、通用拼音、國語羅馬字、注音二式、WG拼音、耶魯拼音等華語拼音方案，供各界人士拼寫漢字時參考。本人非語言專業，懇請先進批評指教。  
+本方案以漢語拼音為藍本，參酌通用拼音、國語羅馬字、注音二式、WG拼音、耶魯拼音等華語拼音方案制定，供各界人士拼寫漢字時參考。本人非語言專業，懇請先進批評指教。  
   
 **Putong-Hua-Pinyin** (PH-Pinyin) is a romanization system modified from Hanyu-Pinyin for spelling Modern Mandarin, which can fix some unambiguous sound when non-native Mandarin speaker trying to pronounce Mandarin.
 
