@@ -44,11 +44,11 @@
 Remove **ê** and **ü** which are not basic Latin alphabet and **q** and **x** which are rarely used as the first capital in English.
 2. 取消縮寫以維持發音。漢語拼音有縮寫規則以求行文流暢，PH拼音只做為輔助發音故保持全寫。  
 Cancel simplified rule in Hanyu Pinyin. Remain **-iu** and **-un** as **-iou-** and **-uen**
-3. **ㄒ**和**ㄙ**共用**s**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突。 
+3. **ㄒ**和**ㄙ**共用**s**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突。  
 Use **ch** and **sh** to represent both **ㄑ/ㄔ** and **ㄒ/ㄕ** respectively, since **ㄑㄒ** always come with **ーㄨ** and **ㄔㄕ** never come with **ーㄨ** they will not conflict with each other. eg. 七Ci 西Si 私Sih
 4. **ㄘ**改為**ts**（國羅）**ㄑ**改為**c**  
 Change alphabet of **ㄘ** to **ts**（_Gwoyeu Romatzyh_）,and let **ㄑ** take **c** 
-5. **ㄩ**改為**yu**（漢拼草案），**ㄝ**改為**eh**（威妥瑪），空韻使用**ih**（國羅）     
+5. **ㄩ**改為**yu**（漢拼草案），**ㄝ**改為**eh**（威妥瑪），空韻使用**ih**（國羅）  
 Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to **eh** (_Wade–Giles_), **ㄭ** (minimal vowel of ㄓ,ㄔ,ㄕ,ㄖ,ㄗ,ㄘ,ㄙ) to **ih** (_Gwoyeu Romatzyh_) 
 6. 增加**ㄅㄆㄇ+ㄛ**時補ㄨ的規則，以符合台灣人實際發音習慣。  
 **bo** **po** **mo** should be spell as **buo** **puo** **muo** to fix the missing "u" sound
@@ -90,5 +90,5 @@ Change alphabet of **ㄩ** to **yu** (_early draft of Hanyu pinyin_), **ㄝ** to
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
-目前版本 Current Version: 2.1  
-本文最後編寫時間: Mar-04-2018 01:44AM (UTC+8)
+目前版本 Current Version: 2.1  
+本文最後編寫時間: Mar-10-2018 09:49PM (UTC+8)
