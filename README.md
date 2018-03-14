@@ -32,14 +32,11 @@
 |**ＰＨ**|an|en|ang|eng|ai|ei|ao|ou
 
 ## 結合韻母 Compound/Final Vowels
-| | | | | | | |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**注音**|ㄧㄢ|ㄨㄢ|ㄩㄢ|
-|**汉拼**|in|uan|üan|
-|**ＰＨ**|**ien**|**wan**|**uan**
-|**注音**|ㄧㄣ|ㄨㄣ|ㄩㄣ|ㄧㄥ|ㄨㄥ|ㄨㄥ|ㄩㄥ
-|**汉拼**|in|un|ün|ing|ong|iong
-|**ＰＨ**|in|**wen**|**uen**|ing|eng|**ung**|iong
+| | | | | | | | | | | |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|**注音**|ㄧㄢ|ㄨㄢ|ㄩㄢ|ㄧㄣ|ㄨㄣ|ㄩㄣ|ㄧㄥ|ㄨㄥ|ㄨㄥ|ㄩㄥ
+|**汉拼**|in|uan|üan|in|un|ün|ing|eng|ong|iong
+|**ＰＨ**|**ien**|**wan**|**uan**|in|**wen**|**uen**|ing|eng|**ung**|iong
 * 翁weng 同tung
 
 # 與漢語拼音方案比較 Difference with Hanyu Pinyin
@@ -81,4 +78,4 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
 目前版本 Current Version: 3.0  
-本文最後編寫時間: Mar-14-2018 03:56PM (UTC+8)
+本文最後編寫時間: Mar-14-2018 03:59PM (UTC+8)
