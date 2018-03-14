@@ -47,7 +47,7 @@ Cancel simplified rule in Hanyu Pinyin. **-iu** → **-iou** , **-un** → **-ue
 3. **ㄑ**和**ㄔ**共用**ch**，由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突。  
 Use **ch**  to represent both **ㄑ** and **ㄔ** , since **ㄑㄒ** always come with **ーㄨ** and **ㄔㄕ** never come with **ーㄨ** they will not conflict with each other. eg. 七Chi 吃Chih
 4. **ㄘ** → **ts** (國羅, _Gwoyeu Romatzyh_), **ㄑ** → **ch**(_Wade-Giles_), **ㄒ** → **hs**(_Wade-Giles_)  
-5. **ㄩ** → **yu** (漢拼草案, _early draft of Hanyu pinyin_), **ㄝ**  → **eh** (_Wade–Giles_ ), 空韻**i** → **ih** (_Wade–Giles_)  
+5. **ㄩ** → **yu** (漢拼草案, _early draft of Hanyu pinyin_), **ㄝ**  → **eh** (_Wade–Giles_), 空韻**i** → **ih** (_Wade–Giles_)  
 6. ㄨㄩ+ㄢㄣㄥ時，u改為w，yu改為u。根據注音規則，ㄧㄢ應唸作ien，拼法從之(_Wade-Giles_)。  
 Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for details.
 
@@ -78,4 +78,4 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
 目前版本 Current Version: 3.0  
-本文最後編寫時間: Mar-14-2018 03:59PM (UTC+8)
+本文最後編寫時間: Mar-14-2018 04:13PM (UTC+8)
