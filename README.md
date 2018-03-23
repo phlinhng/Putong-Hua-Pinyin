@@ -68,7 +68,7 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
   
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
-ＰＨ：Ching Ching He Pan Tsao, Yu Yu Yuan Zhong Liou.  
+ＰＨ：Ching Ching He Pan Tsao, Yu Yu Yuan Zhung Liou.  
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
@@ -77,5 +77,5 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
-目前版本 Current Version: 3.1  
-本文最後編寫時間: Mar-24-2018 12:09AM (UTC+8)
+目前版本 Current Version: 3.1  
+本文最後編寫時間: Mar-24-2018 12:11AM (UTC+8)
