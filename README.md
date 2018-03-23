@@ -64,7 +64,7 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＰＨ：Dong Bien Rih Chu Hsi Bien Yu, Dao Shih Wu Ching Chueh You Ching.  
+ＰＨ：Dung Bien Rih Chu Hsi Bien Yu, Dao Shih Wu Ching Chueh You Ching.  
   
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
@@ -78,4 +78,4 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
 目前版本 Current Version: 3.1  
-本文最後編寫時間: Mar-23-2018 10:17PM (UTC+8)
+本文最後編寫時間: Mar-24-2018 12:09AM (UTC+8)
