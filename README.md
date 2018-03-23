@@ -32,11 +32,11 @@
 |**ＰＨ**|an|en|ang|eng|ai|ei|ao|ou
 
 ## 結合韻母 Compound/Final Vowels
-| | | | | | | | | | | |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**注音**|ㄧㄢ|ㄨㄢ|ㄩㄢ|ㄧㄣ|ㄨㄣ|ㄩㄣ|ㄧㄥ|ㄨㄥ|ㄨㄥ|ㄩㄥ
-|**汉拼**|in|uan|üan|in|un|ün|ing|eng|ong|iong
-|**ＰＨ**|**ien**|**wan**|**uan**|in|**wen**|**uen**|ing|eng|**ung**|iong
+| | | | | | | | | | | | |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| :----:|
+|**注音**|ㄧㄢ|ㄨㄢ|ㄩㄢ|ㄩㄝ|ㄧㄣ|ㄨㄣ|ㄩㄣ|ㄧㄥ|ㄨㄥ|ㄨㄥ|ㄩㄥ
+|**汉拼**|in|uan|üan|üe|in|un|ün|ing|eng|ong|iong
+|**ＰＨ**|**ien**|**wan**|**uan**|**ueh**|in|**wen**|**uen**|ing|eng|**ung**|iong
 * 翁weng 同tung
 
 # 與漢語拼音方案比較 Difference with Hanyu Pinyin
@@ -64,7 +64,7 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＰＨ：Dong Bien Rih Chu Hsi Bien Yu, Dao Shih Wu Ching Chyueh You Ching.  
+ＰＨ：Dong Bien Rih Chu Hsi Bien Yu, Dao Shih Wu Ching Chueh You Ching.  
   
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
@@ -72,10 +72,10 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Juen Duo Tsai Jieh, Tsih Wu Zuei Shiang Sih.
+ＰＨ：Yuan Juen Duo Tsai Jieh, Tsih Wu Zuei Hsiang Sih.
 
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
-目前版本 Current Version: 3.0  
-本文最後編寫時間: Mar-14-2018 04:13PM (UTC+8)
+目前版本 Current Version: 3.1  
+本文最後編寫時間: Mar-23-2018 10:17PM (UTC+8)
