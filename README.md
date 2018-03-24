@@ -11,7 +11,7 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**注音**|ㄅ|ㄆ|ㄇ|ㄈ|ㄉ|ㄊ|ㄋ|ㄌ|ㄍ|ㄎ|ㄏ|ㄐ|ㄑ|ㄒ
 |**汉拼**|b|p|m|f|d|t|n|l|g|k|h|j|q|x
-|**ＰＨ**|b|p|m|f|d|t|n|l|g|k|h|j|ch|sh/x
+|**ＰＨ**|b|p|m|f|d|t|n|l|g|k|h|j|ch|s
 |**注音**|ㄓ|ㄔ|ㄕ|ㄖ|ㄗ|ㄘ|ㄙ|ㄧ|ㄨ|ㄩ
 |**汉拼**|zh|ch|sh|r|z|c|s|y|w|ü
 |**ＰＨ**|zh|ch|sh|r|z|ts|s|y|w|yu
@@ -48,7 +48,7 @@
 Remove **ê** and **ü** which are not basic Latin alphabet and reduce usages of **q** and **x** which are rarely used as the first capital in English.
 2. 取消縮寫。 **-iu** → **-iou** , **un** → **uen**  
 Cancel simplified rule in Hanyu Pinyin. **-iu** → **-iou** , **-un** → **-uen** 
-3. 歸併音位：**ㄑ/ㄔ** → **ch**，**ㄒ/ㄕ** → **sh**。由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突。  
+3. 歸併音位：**ㄑ/ㄔ** → **ch**，**ㄒ/ㄙ** → **s**。由於**ㄐㄑㄒ**後面永遠接**ㄧㄩ**，**ㄓㄔㄕ**後面永不接**ㄧㄩ**，這麼做並不會有拼音衝突。 
 Combine ㄑ/ㄔ and ㄒ/ㄕ respectively, since **ㄑㄒ** always come with **ーㄨ** and **ㄔㄕ** never come with **ーㄨ** they will not conflict with each other. eg. 七Chi 吃Chih
 4. **ㄘ** → **ts** (國羅, _Gwoyeu Romatzyh_), **ㄑ** → **ch**(_Wade-Giles_), **ㄒ** → **hs**(_Wade-Giles_)  
 5. **ㄩ** → **yu** (漢拼草案, early draft of _Hanyu pinyin_), **ㄩㄥ** → **ung** (北方話拉丁化新文字, _Latinxua Sin Wenz_), **i** → **ih** (_Wade–Giles_)  
@@ -76,10 +76,10 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Juen Duo Tsai Jie, Tsih Wu Zuei Shiang Sih.
+ＰＨ：Yuan Juen Duo Tsai Jie, Tsih Wu Zuei Siang Sih.
 
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
-目前版本 Current Version: 3.2  
-本文最後編寫時間: Mar-24-2018 05:35PM (UTC+8)
+目前版本 Current Version: 3.3  
+本文最後編寫時間: Mar-24-2018 09:20PM (UTC+8)
