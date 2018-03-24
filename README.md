@@ -39,7 +39,7 @@
 |**ＰＨ**|ie|**ue**|**ien**|**wan**|**uan**|in|**wen**|**uen**|ing|eng|**ung**|iong
 * 翁weng 同tung
 
-## 例外規則 Exception
+## 例外規則 Exceptions
 席ㄒㄧ xi  
 謝ㄒㄧㄝ xie
 
