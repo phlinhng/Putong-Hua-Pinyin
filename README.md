@@ -64,7 +64,7 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Chyu Kuai Lien Ji Shu De Ying Yung Yu Wei Lai  
+ＰＨ：Chyu Kuai Lien Ji Shu De Ying Yong Yu Wei Lai  
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
