@@ -5,8 +5,9 @@
 **Putong-Hua-Pinyin** (PH-Pinyin) is a romanization system modified from Hanyu-Pinyin for spelling Modern Mandarin, which can fix some unambiguous sound when non-native Mandarin speaker trying to pronounce Mandarin.
 
 # PH拼音對照表   
-* ＰＨ: Putung-Hua Pinyin  
+* ＰＨ: Putong-Hua Pinyin  
 * 汉拼: Hanyu Pinyin
+
 ## 聲母 Consonants
 | | | | | | | | | | | | | | | |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -23,7 +24,6 @@
 |**注音**|ㄧ|ㄨ|ㄩ|ㄚ|ㄛ|ㄜ|ㄝ|ㄦ|ㄭ
 |**汉拼**|i|u|ü|a|o|e|ê|er|i
 |**ＰＨ**|i|u|**eu**|a|o|e|e|er|**j** 
-* ㄨㄩ變化規則見「結合韻母」
 
 ## 複韻母 Compound Vowels
 | | | | | | | | | |
@@ -38,7 +38,7 @@
 |**注音**|ㄧㄝ|ㄩㄝ|ㄧㄢ|ㄨㄢ|ㄩㄢ|ㄧㄣ|ㄨㄣ|ㄩㄣ|ㄧㄥ|ㄨㄥ|ㄨㄥ|ㄩㄥ
 |**汉拼**|ie|üe|in|uan|üan|in|un|ün|ing|eng|ong|iong
 |**ＰＨ**|ie|**iue**|**ien**|**wan**|uan|in|**uen**|**eun**|ing|eng|ong|**ung**
-* 翁weng 同tung
+* 翁weng 同tong
 
 ## 例外規則 Exceptions
 席ㄒㄧ xi  
@@ -88,4 +88,4 @@ Adjust some compound vowels. Check "結合韻母 Compound/Final Vowels" for deta
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
 目前版本 Current Version: 3.4  
-本文最後編寫時間: Mar-25-2018 02:09PM (UTC+8)
+本文最後編寫時間: Mar-25-2018 02:15PM (UTC+8)
