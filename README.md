@@ -53,9 +53,9 @@ Eg. 西安 **Xeean** , 尼歐 **Neeou**
 Eg. 基恩 **Jiien**
 * ~n + an/en/ou時, n改成**nj**  
 Eg. 南岸 **Nanjan** ,  金恩 **Jinjen** , 泛歐 **Fanjou**
-* ~n + n~時, 前n改為**m**  
+* ~n + n-時, 前n改為**m**  
 Eg. 板南 **Bamnan**
-* ~j + j~時，前j改為**r**  
+* ~j + j-時，前j改為**r**  
 Eg. 直接 **Zhrjie**
 
 # 範例 Example
