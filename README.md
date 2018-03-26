@@ -71,7 +71,7 @@ Eg. 直接 **Zhrjie**
  
 中文：君不見高堂明鏡悲白髮朝如青絲暮成雪  
 漢拼：Jun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Qing Si Mu Cheng Xue   
-ＰＨ：Juen Bu Jien Kao Tang Ming Jing Bei Bai Fa Zhao Reu Ching Sj Mu Cheng Siue
+ＰＨ：Juen Bu Jien Kao Tang Ming Jing Bei Bai Fa Zhao Ru Ching Sj Mu Cheng Siue
 
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
