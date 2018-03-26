@@ -63,7 +63,7 @@ Eg. 直接 **Zhrjie**
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Cheu Quai Lien Ji Shu De Ying Yung Yu Wei Lai  
+ＰＨ：Cheu Quai Lien Ji Shu De Ying Yung Yeu Wei Lai  
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
