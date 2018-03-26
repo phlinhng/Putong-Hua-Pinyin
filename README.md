@@ -2,7 +2,7 @@
 漢語拼音方案設計簡潔縝密，然其為追求書寫方便而失去了一些發音特徵，用拉丁字母通俗語音拼寫華語發音時難免訛誤。  
 本方案以漢語拼音為藍本，參酌通用拼音、國語羅馬字、注音二式、WG拼音、耶魯拼音等華語拼音方案制定，供各界人士拼寫漢字時參考。本人非語言專業，懇請先進批評指教。  
   
-**Putong-Hua-Pinyin** (PH-Pinyin) is a romanization system modified from Hanyu-Pinyin for spelling Modern Mandarin, which can fix some unambiguous sound when non-native Mandarin speaker trying to pronounce Mandarin.
+**Putong-Hua Pinyin** (PH Pinyin) is a romanization system modified from Hanyu-Pinyin for spelling Modern Mandarin, which can fix some unambiguous sound when non-native Mandarin speaker trying to pronounce Mandarin.
 
 # PH拼音對照表   
 * ＰＨ: Putong-Hua Pinyin  
@@ -15,7 +15,7 @@
 |**ＰＨ**|b|p|m|f|d|t|n|l|k|q|h|j|ch|s
 |**注音**|**ㄓ**|**ㄔ**|**ㄕ**|**ㄖ**|**ㄗ**|**ㄘ**|**ㄙ**|**ㄧ**|**ㄨ**|**ㄩ**
 |**汉拼**|zh|ch|sh|r|z|c|s|y|w|ü
-|**ＰＨ**|zh|ch|sh|r|z|ts|s|y|w|yu
+|**ＰＨ**|zh|ch|sh|r|z|ts|s|y|w|(y)
 
 ## 單韻母 Single Vowels
 |**注音**|ㄧ|ㄨ|ㄩ|ㄚ|ㄛ|ㄜ|ㄝ|ㄦ|ㄭ
