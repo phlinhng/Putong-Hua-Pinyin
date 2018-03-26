@@ -33,7 +33,7 @@
 |**注音**|ㄧㄝ|ㄩㄝ|ㄧㄢ|ㄨㄢ|ㄩㄢ|ㄨㄟ|ㄧㄣ|ㄨㄣ|ㄩㄣ|ㄧㄥ|ㄨㄥ|ㄨㄥ|ㄩㄥ
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| :----:| :----:| :----:|
 |**汉拼**|ie|üe|in|uan|üan|ui|in|un|ün|ing|eng|ong|iong
-|**ＰＨ**|ie|**iue**|**ien**|**wan**|uan|ui|in|**uen**|**eun**|ing|eng|ong|**ung**
+|**ＰＨ**|ie|**iue**|**ien**|**wan**|uan|**uei**|in|**uen**|**eun**|ing|eng|ong|**ung**
 * 翁weng 同tong
 
 ## 例外規則 Exceptions
@@ -79,7 +79,7 @@ Eg. 直接 **Zhrjie**
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Juen Duo Tsai Jie, Tsj Wu Zui Siang Sj.
+ＰＨ：Yuan Juen Duo Tsai Jie, Tsj Wu Zuei Siang Sj.
 
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
