@@ -63,16 +63,16 @@ eg. 新聞 **Shinwuen**
 eg. 直接 **Zhrjie**
 2. 兒化韻以**rl**表示
 eg. 花兒 **Huarl**
-3. 形容詞字尾"~的"直接在詞後加**de**，"的"表從屬關係時則單獨寫  
-eg. 西方的文化 **Shifangde Wenhua** , 他的書 **Ta de Shu**
-4. 副詞字尾"~地"直接在詞後加**d**，副詞字尾"~得"直接在詞後加**dr**  
-eg. 安全地傳輸 **Anchuand Chwanshu** , 跑得快 **Paodr Quai**
+3. 形容詞字尾"~的"直接在詞後加**de**，"的"表從屬關係時則單獨寫
+* 西方的文化 **Shifangde Wenhua** , 他的書 **Ta de Shu**
+4. 副詞字尾"~地"直接在詞後加**d**，副詞字尾"~得"直接在詞後加**dr**
+* 安全地傳輸 **Anchuand Chwanshu** , 跑得快 **Paodr Quai**
 5. 完成式字尾"~了"直接在詞後加**l**
 eg. 吃飽了 **Chjbaol**
 6. 重複的字在字後加**x**代表重複
 eg. 好好看 **Haox Kan**
-7. 漢語拼音正詞法中用到短橫-的，以撇號'代替。短橫只做為排版時將單詞分行使用。  
-eg. 辯證唯物主義 **Bianzheng'weiwuzhuyee**
+7. 漢語拼音正詞法中用到短橫-的，以撇號'代替。短橫只做為排版時將單詞分行使用。
+* 辯證唯物主義 **Bianzheng'weiwuzhuyee**
 8. 其他比照《漢語拼音正詞法基本規則》處理
 
 # 範例 Example
