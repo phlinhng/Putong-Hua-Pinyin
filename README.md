@@ -21,7 +21,7 @@
 |**注音**|ㄧ|ㄨ|ㄩ|ㄚ|ㄛ|ㄜ|ㄝ|ㄦ|ㄭ
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**汉拼**|i|u|ü|a|o|e|ê|er|i
-|**ＰＨ**|i|u|**eu**|a|o|e|e|er|**j** 
+|**ＰＨ**|i|u|**eu**|a|o|**er**|e|**erl**|**j** 
 
 ## 複韻母 Compound Vowels
 |**注音**|ㄢ|ㄣ|ㄤ|ㄥ|ㄞ|ㄟ|ㄠ|ㄡ|
@@ -37,26 +37,43 @@
 * 翁weng 同tong
 
 ## 例外規則 Exceptions
-* 聲母ㄒ的音拼式少於4字時，以x表示ㄒ
-
-|**注音**|ㄒㄧ|ㄒㄩ|ㄒㄧㄝ|ㄒㄧㄣ|
-|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|xi|xeu|xie|xin|
-
+* 聲母ㄒ的音拼式少於4字時，在s後方加h，以**s**h表示ㄒ
 * ㄒㄩㄥ的韻母前補i，拼作**siung**
 
+|**注音**|ㄒㄧ|ㄒㄩ|ㄒㄧㄝ|ㄒㄧㄣ|ㄒㄩㄥ|
+|:----:|:----:|:----:|:----:|:----:| :----:|
+|**ＰＨ**|shi|shu|shie|shin|siung|
+* 的de 得der
+* ㄧ(i)結尾的字單獨成字或做為詞尾時，ㄧ寫作ee，其他時候寫作i
+
 ## 連寫法/正詞法 (beta)
-* 連寫會產生歧意時，不使用隔音符號，以字尾變化處理
+1. 連寫會產生歧意時，不使用隔音符號，以字尾變化處理
+* ~e + en(g)時, en改成**eon(g)**
 * ~i + an/ou時, i改成**ee**  
-Eg. 西安 **Xeean** , 尼歐 **Neeou**
-* ~i + en時, i改成**ii**  
-Eg. 基恩 **Jiien**
-* ~n + an/en/ou時, n改成**nj**  
-Eg. 南岸 **Nanjan** ,  金恩 **Jinjen** , 泛歐 **Fanjou**
+eg. 西安 **Xeean** , 尼歐 **Neeou**
+* ~i + en時, i改成**hi**  
+eg. 基恩 **Jhien**
+* ~n + an/en/ou時, n改成**hn**  
+eg. 灣岸 **Wahnan** ,  金恩 **Jihnen** , 泛歐 **Fahnou**
 * ~n + n-時, 前n改為**m**  
-Eg. 板南 **Bamnan**
+eg. 板南 **Bamnan**
+* ~n + w-時, w改成**wu**
+eg. 新聞 **Shinwuen**
 * ~j + j-時，前j改為**r**  
-Eg. 直接 **Zhrjie**
+eg. 直接 **Zhrjie**
+2. 兒化韻以**rl**表示
+eg. 花兒 **Huarl**
+3. 形容詞字尾"~的"直接在詞後加**de**，"的"表從屬關係時則單獨寫  
+eg. 西方的文化 **Shifangde Wenhua** , 他的書 **Ta de Shu**
+4. 副詞字尾"~地"直接在詞後加**d**，副詞字尾"~得"直接在詞後加**dr**  
+eg. 安全地傳輸 **Anchuand Chwanshu** , 跑得快 **Paodr Quai**
+5. 完成式字尾"~了"直接在詞後加**l**
+eg. 吃飽了 **Chjbaol**
+6. 重複的字在字後加**x**代表重複
+eg. 好好看 **Haox Kan**
+7. 漢語拼音正詞法中用到短橫-的，以撇號'代替。短橫只做為排版時將單詞分行使用。  
+eg. 辯證唯物主義 **Bianzheng'weiwuzhuyee**
+8. 其他比照《漢語拼音正詞法基本規則》處理
 
 # 範例 Example
 * 以下範例不標音調。
@@ -75,14 +92,17 @@ Eg. 直接 **Zhrjie**
 
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
-ＰＨ：Ching Ching He Pan Tsao, Yeu Yeu Yuan Zhong Liou.  
+ＰＨ：Ching Ching Her Pan Tsao, Yeu Yeu Yuan Zhong Liou.  
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
 ＰＨ：Yuan Juen Duo Tsai Jie, Tsj Wu Zuei Siang Sj.
 
+# 正詞法範例
+
+
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
-目前版本 Current Version: 3.6  
-本文最後編寫時間: Mar-26-2018 01:14PM (UTC+8)
+目前版本 Current Version: 3.8  
+本文最後編寫時間: Mar-27-2018 03:00PM (UTC+8)
