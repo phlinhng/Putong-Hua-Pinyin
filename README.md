@@ -43,7 +43,6 @@
 |**注音**|ㄒㄧ|ㄒㄩ|ㄒㄧㄝ|ㄒㄧㄣ|ㄒㄩㄥ|
 |:----:|:----:|:----:|:----:|:----:| :----:|
 |**ＰＨ**|shi|shu|shie|shin|siung|
-* 的de 得der
 * ㄧ(i)結尾的字單獨成字或做為詞尾時，ㄧ寫作ee，其他時候寫作i
 
 # 連寫法/正詞法 (beta)
@@ -63,10 +62,10 @@ eg. 新聞 **Shinwuen**
 eg. 直接 **Zhrjie**
 2. 兒化韻以**rl**表示
 eg. 花兒 **Huarl**
-3. 形容詞字尾"~的"直接在詞後加**de**，"的"表從屬關係時則單獨寫
-* 西方的文化 **Shifangde Wenhua** , 他的書 **Ta de Shu**
-4. 副詞字尾"~地"直接在詞後加**d**，副詞字尾"~得"直接在詞後加**dr**
-* 安全地傳輸 **Anchuand Chwanshu** , 跑得快 **Paodr Quai**
+3. 形容詞字尾"~的"直接在詞後加**d**，"的"表從屬關係時則加撇號'
+* 西方的文化 **Shifangd Wenhua** , 他的書 **Ta'd Shu**
+4. 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr**
+* 安全地傳輸 **Anchuandy Chwanshu** , 跑得快 **Paodr Quai**
 5. 完成式字尾"~了"直接在詞後加**l**
 eg. 吃飽了 **Chjbaol**
 6. 重複的字在字後加**x**代表重複
@@ -98,11 +97,8 @@ eg. 好好看 **Haox Kan**
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
 ＰＨ：Yuan Juen Duo Tsai Jie, Tsj Wu Zuei Siang Sj.
 
-# 正詞法範例
-
-
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
   
 目前版本 Current Version: 3.8  
-本文最後編寫時間: Mar-27-2018 03:00PM (UTC+8)
+本文最後編寫時間: Mar-27-2018 03:16PM (UTC+8)
