@@ -5,38 +5,31 @@
 **Putong-Hua Pinyin** (PH Pinyin) is a romanization system modified from Hanyu-Pinyin for spelling Modern Mandarin, which can fix some unambiguous sound when non-native Mandarin speaker trying to pronounce Mandarin.
 
 # PH拼音對照表   
-* ＰＨ: Putong-Hua Pinyin  
-* 汉拼: Hanyu Pinyin
 
 ## 聲母 Consonants
-|**注音**|ㄅ|ㄆ|ㄇ|ㄈ|ㄉ|ㄊ|ㄋ|ㄌ|ㄍ|ㄎ|ㄏ|ㄐ|ㄑ|ㄒ
+|**注音**|ㄅb|ㄆp|ㄇm|ㄈf|ㄉd|ㄊt|ㄋn|ㄌl|ㄍg|ㄎk|ㄏh|ㄐj|ㄑq|ㄒx
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**汉拼**|b|p|m|f|d|t|n|l|g|k|h|j|q|x
-|**ＰＨ**|b|p|m|f|d|t|n|l|k|q|h|j|ch|s
-|**注音**|**ㄓ**|**ㄔ**|**ㄕ**|**ㄖ**|**ㄗ**|**ㄘ**|**ㄙ**|**ㄧ**|**ㄨ**|**ㄩ**
-|**汉拼**|zh|ch|sh|r|z|c|s|y|w|ü
-|**ＰＨ**|zh|ch|sh|r|z|ts|s|y|w|(y)
+|**ＰＨ**|b|p|m|f|d|t|n|l|**k**|**q**|h|j|**ch**|**s**
+|**注音**|**ㄓzh**|**ㄔch**|**ㄕsh**|**ㄖr**|**ㄗz**|**ㄘc**|**ㄙs**|**ㄧy**|**ㄨw**|**ㄩy(u)**
+|**ＰＨ**|zh|ch|sh|r|z|**ts**|s|y|w|(y)
 
 ## 單韻母 Single Vowels
-|**注音**|ㄧ|ㄨ|ㄩ|ㄚ|ㄛ|ㄜ|ㄝ|ㄦ|ㄭ
+|**注音**|ㄧi|ㄨu|ㄩü|ㄚa|ㄛo|ㄜe|ㄝê|ㄦer|ㄭi
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**汉拼**|i|u|ü|a|o|e|ê|er|i
 |**ＰＨ**|i|u|**eu**|a|o|**er**|e|**erl**|**j** 
 
 ## 複韻母 Compound Vowels
-|**注音**|ㄢ|ㄣ|ㄤ|ㄥ|ㄞ|ㄟ|ㄠ|ㄡ|
+|**注音**|ㄢan|ㄣen|ㄤang|ㄥeng|ㄞai|ㄟei|ㄠao|ㄡou|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**汉拼**|an|en|ang|eng|ai|ei|ao|ou
 |**ＰＨ**|an|en|ang|eng|ai|ei|ao|ou
 
 ## 結合韻母 Compound/Final Vowels
-|**注音**|ㄧㄝ|ㄩㄝ|ㄧㄢ|ㄨㄢ|ㄩㄢ|ㄨㄟ|ㄧㄣ|ㄨㄣ|ㄩㄣ|ㄧㄥ|ㄨㄥ|ㄨㄥ|ㄩㄥ
+|**注音**|ㄧㄝ ie|ㄩㄝüe|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|ㄨㄟ ui|ㄧㄣ in|ㄨㄣun|ㄩㄣün|ㄧㄥing|ㄨㄥeng|ㄨㄥong|ㄩㄥiong
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| :----:| :----:| :----:|
-|**汉拼**|ie|üe|in|uan|üan|ui|in|un|ün|ing|eng|ong|iong
 |**ＰＨ**|ie|**iue**|**ien**|**wan**|uan|**uei**|in|**uen**|**eun**|ing|eng|ong|**ung**
 * 翁weng 同tong
 
-## 例外規則 Exceptions
+## 例外規則 Exceptions Rules
 * 聲母ㄒ的音拼式少於4字時，在s後方加h，以**sh**表示ㄒ
 * ㄒㄩㄥ的韻母前補i，拼作**siung**
 
@@ -44,6 +37,22 @@
 |:----:|:----:|:----:|:----:|:----:| :----:|
 |**ＰＨ**|shi|sheu|shie|shin|siung|
 * ㄧ(i)結尾的字單獨成字或做為詞尾時，ㄧ寫作ee，其他時候寫作i
+
+## 數字寫法 Numbers
+為區別數字與同音字，特制定數字寫法
+
+|**數字**|一|二|三|四|五|六|七|八|九|十|百|千|萬|億
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| :----:|
+|**ＰＨ**|yee|jrl|sam|sij|wgu|liu|qhi|bha|jiu|shr|ba|kian|van|yir
+
+數字作為專有名詞或成語用字時，採用原寫法 eg. 億載金城 Yee Zai Jin Cheng
+
+## 個別寫法 Exceptions Characters
+以下常用字採個別寫法
+
+|**注音**|個|人|中華|中华|
+|:----:|:----:|:----:|:----:|:----:|
+|**ＰＨ**|ger|jen|jhonghwa|zhonghua|
 
 # 連寫法/正詞法 (beta)
 1. 連寫會產生歧意時，不使用隔音符號，以字尾變化處理
@@ -74,9 +83,10 @@ eg. 群眾們 **Cheunzhongm**
 8. “是”接在前一字尾端加**s**，可用詞尾’t表否定
 9. 重複的字在字後加**x**代表重複
 eg. 好好看 **Haox Kan**
-10. 漢語拼音正詞法中用到短橫-的，以撇號'代替。短橫只做為排版時將單詞分行使用。
+10. 虛詞直接加在詞尾並縮寫：嗎/伐 **v?** 吧 **b./b?** 唄 **b!** ，其餘呢嗎喔噢僅連寫不縮寫
+11. 漢語拼音正詞法中用到短橫-的，以撇號'代替。短橫只做為排版時將單詞分行使用。
 * 辯證唯物主義 **Bianzheng'weiwuzhuyee**
-11. 其他比照《漢語拼音正詞法基本規則》處理
+12. 其餘比照《漢語拼音正詞法基本規則》處理
 
 # 範例 Example
 * 以下範例不標音調。
@@ -102,7 +112,6 @@ eg. 好好看 **Haox Kan**
 ＰＨ：Yuan Juen Duo Tsai Jie, Tsj Wu Zuei Siang Sj.
 
 # 感謝 Sepcial Thanks to
-感謝PTT站友**Thirdshadow**在編寫過程提供的寶貴意見。  
+感謝PTT站友**Thirdshadow**在早期編寫過程提供的寶貴意見。  
   
-目前版本 Current Version: 3.8  
-本文最後編寫時間: Mar-28-2018 09:03AM (UTC+8)
+目前版本 Current Version: 3.9  
