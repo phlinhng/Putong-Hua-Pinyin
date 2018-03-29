@@ -59,27 +59,23 @@ eg. 在今天早上的過程中看到 ZÀI JĪNTIĀN zaoshangd GÙOCHÉNG zhong 
 
 # 連寫法/正詞法 (beta)
 1. 連寫會產生歧意時，不使用隔音符號，以字尾變化處理
-* ~e + en(g)時, en改成**eon(g)**
 * ~i + an/ou時, i改成**ee**  
 eg. 西安 **Xeean** , 尼歐 **Neeou**
-* ~i + en時, i改成**hi**  
-eg. 基恩 **Jhien**
 * ~n + an/en/ou時, n改成**hn**  
 eg. 灣岸 **Wahnan** ,  金恩 **Jihnen** , 泛歐 **Fahnou**
 * ~n + n-時, 前n改為**m**  
 eg. 板南 **Bamnan**
-* ~n + w-時, w改成**wu**
-eg. 新聞 **Shinwuen**
 * ~j + j-時，前j改為**r**  
 eg. 直接 **Zhrjie**
+* 連寫依然無法避免歧意時（例如~e+en(g),~n+w-的情況），以撇號'隔音或者乾脆分開寫
 2. 兒化韻以**rl**表示
 eg. 花兒 **Huarl**
 3. 形容詞字尾"~的"直接在詞後加**d**，"的"表從屬關係時則加撇號'
 * 西方的文化 **Shifangd Wenhua** , 他的書 **Ta'd Shu**
 4. 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr**
 * 安全地傳輸 **Anchuandy Chwanshu** , 跑得快 **Paodr Quai**
-5. 完成式字尾"~了"直接在詞後加**l**
-eg. 吃飽了 **Chjbaol**
+5. 完成式字尾"~了"直接在詞後加**l**，進行式字尾"~著"直接在詞後加**z**
+eg. 吃飽了撐著 **Chjbaolchengz**
 6. 字尾“~們”直接在詞後加**m**
 eg. 群眾們 **Cheunzhongm**
 7. 人身代名詞：你**ni** 我**wo** 他**ta** 你們**nm** 我們**wm** 他們**tm**
