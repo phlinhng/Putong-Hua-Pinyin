@@ -26,16 +26,15 @@
 ## 結合韻母 Compound/Final Vowels
 |**注音**|ㄧㄝ ie|ㄩㄝüe|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|ㄨㄟ ui|ㄧㄣ in|ㄨㄣun|ㄩㄣün|ㄧㄥing|ㄨㄥeng|ㄨㄥong|ㄩㄥiong
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| :----:| :----:| :----:|
-|**ＰＨ**|ie|**iue**|**ien**|**wan**|uan|**uei**|in|**uen**|**eun**|ing|eng|ong|**ung**
+|**ＰＨ**|ie|**iue**|ian|**wan**|uan|**uei**|in|**uen**|**eun**|ing|eng|ong|**iung**
 * 翁weng 同tong
 
 ## 例外規則 Exceptions Rules
 * 聲母ㄒ的音拼式少於4字時，在s後方加h，以**sh**表示ㄒ
-* ㄒㄩㄥ的韻母前補i，拼作**siung**
 
-|**注音**|ㄒㄧ|ㄒㄩ|ㄒㄧㄝ|ㄒㄧㄣ|ㄒㄩㄥ|
-|:----:|:----:|:----:|:----:|:----:| :----:|
-|**ＰＨ**|shi|sheu|shie|shin|siung|
+|**注音**|ㄒㄧ|ㄒㄩ|ㄒㄧㄝ|ㄒㄧㄣ|
+|:----:|:----:|:----:|:----:|:----:|
+|**ＰＨ**|shi|sheu|shie|shin|
 * ㄧ(i)結尾的字單獨成字或做為詞尾時，ㄧ寫作ee，其他時候寫作i
 
 ## 數字寫法 Numbers
@@ -43,16 +42,20 @@
 
 |**數字**|一|二|三|四|五|六|七|八|九|十|百|千|萬|億
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| :----:|
-|**ＰＨ**|yee|jrl|sam|sij|wgu|liu|qhi|bha|jiu|shr|ba|kian|van|yir
+|**ＰＨ**|yee|jrl|sam|sij|wgu|liu|qhi|bha|jiu|shr|ba|kien|van|yir
 
 數字作為專有名詞或成語用字時，採用原寫法 eg. 億載金城 Yee Zai Jin Cheng
 
 ## 個別寫法 Exceptions Characters
 以下常用字採個別寫法
 
-|**注音**|個|人|中華|中华|
-|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|ger|jen|jhonghwa|zhonghua|
+|**注音**|個|人|這|中華|中华|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|**ＰＨ**|ger|jen|jhe|jhonghwa|zhonghua|
+
+## 聲調 Tones
+原則上不標，需要時以**全大寫**引用附音調的漢語拼音。
+eg. 在今天早上的過程中看到 ZÀI JĪNTIĀN zaoshangd GÙOCHÉNG zhong KÀNDÀO (注意：過程、看到二字在PH拼音分別拼作kuocheng, qandao）
 
 # 連寫法/正詞法 (beta)
 1. 連寫會產生歧意時，不使用隔音符號，以字尾變化處理
@@ -84,24 +87,22 @@ eg. 群眾們 **Cheunzhongm**
 9. 重複的字在字後加**x**代表重複
 eg. 好好看 **Haox Kan**
 10. 虛詞直接加在詞尾並縮寫：嗎/伐 **v?** 吧 **b./b?** 唄 **b!** ，其餘**呢嗎喔噢**僅連寫不縮寫
-11. 漢語拼音正詞法中用到短橫-的，以撇號'代替。短橫只做為排版時將單詞分行使用
-* 辯證唯物主義 **Bianzheng'weiwuzhuyee**
+11. 數字與單位分開，不連寫；若有需要與其他詞連寫而會產生岐意時，以短橫-分隔
 12. 其餘比照《漢語拼音正詞法基本規則》處理
 
 # 範例 Example
-* 以下範例不標音調。
   
 中文：區塊鏈技術的應用與未來  
 漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Cheu Quai Lien Ji Shu De Ying Yung Yeu Wei Lai  
+ＰＨ：Cheu Quai Lian Ji Shu De Ying Yung Yeu Wei Lai  
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＰＨ：Dong Bien Rj Chu Xi Bien Yeu, Dao Shj Wu Ching Chiue You Ching.  
+ＰＨ：Dong Bian Rj Chu Shee Bian Yeu, Dao Shj Wu Ching Chiue You Ching.  
  
 中文：君不見高堂明鏡悲白髮朝如青絲暮成雪  
 漢拼：Jun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Qing Si Mu Cheng Xue   
-ＰＨ：Juen Bu Jien Kao Tang Ming Jing Bei Bai Fa Zhao Ru Ching Sj Mu Cheng Siue
+ＰＨ：Juen Bu Jian Kao Tang Ming Jing Bei Bai Fa Zhao Ru Ching Sj Mu Cheng Siue
 
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
@@ -114,4 +115,4 @@ eg. 好好看 **Haox Kan**
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在早期編寫過程提供的寶貴意見。  
   
-目前版本 Current Version: 3.9  
+目前版本 Current Version: 4.0  
