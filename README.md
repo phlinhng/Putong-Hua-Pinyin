@@ -1,4 +1,4 @@
-# Putong Hua Pinyin 新普通話拼音
+# Putong Hua Pinyin
 漢語拼音方案設計簡潔縝密，然其為追求書寫方便而失去了一些發音特徵，用拉丁字母通俗語音拼寫華語發音時難免訛誤。  
 本方案以漢語拼音為藍本，參酌威妥瑪拼音、國語羅馬字、北方話拉丁化新文字、注音二式、通用拼音、耶魯拼音等華語拼音方案制定，供各界人士拼寫漢字時參考。本人非語言專業，懇請先進批評指教。  
   
@@ -110,4 +110,8 @@ eg. 好好看 **Haox Kan**
 ＰＨ：Yuan Juen Duo Tsai Jie, Tsj Wu Zuei Siang Sj.
 
 # 感謝 Sepcial Thanks to
+<<<<<<< HEAD
 感謝PTT站友**Thirdshadow**在早期編寫過程提供的寶貴意見。   
+=======
+感謝PTT站友**Thirdshadow**在早期編寫過程提供的寶貴意見。   
+>>>>>>> 13cfda9907a0f8228715725328e4b40cf5f89b19
