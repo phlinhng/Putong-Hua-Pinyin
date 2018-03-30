@@ -70,9 +70,9 @@ eg. 直接 **Zhrjie**
 * 連寫依然無法避免歧意時（例如~e+en(g),~n+w-的情況），以撇號'隔音或者乾脆分開寫
 2. 兒化韻以**rl**表示
 eg. 花兒 **Huarl**
-3. 技術允許時，ng字尾可簡寫為**ñ**
+3. 技術允許時，ng字尾可簡寫為**ñ**
 4. 形容詞字尾"~的"直接在詞後加**d**，"的"表從屬關係時則加撇號'
-* 西方的文化 **Shifangd Wenhua** , 他的書 **Ta'd Shu**
+* 西方的文化 **Shifañd Wenhua** , 他的書 **Ta'd Shu**
 5. 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr**
 * 安全地傳輸 **Anchuandy Chwanshu** , 跑得快 **Paodr Quai**
 6. 完成式字尾"~了"直接在詞後加**l**，進行式字尾"~著"直接在詞後加**z**
@@ -110,8 +110,5 @@ eg. 好好看 **Haox Kan**
 ＰＨ：Yuan Juen Duo Tsai Jie, Tsj Wu Zuei Siang Sj.
 
 # 感謝 Sepcial Thanks to
-<<<<<<< HEAD
 感謝PTT站友**Thirdshadow**在早期編寫過程提供的寶貴意見。   
-=======
-感謝PTT站友**Thirdshadow**在早期編寫過程提供的寶貴意見。   
->>>>>>> 13cfda9907a0f8228715725328e4b40cf5f89b19
+
