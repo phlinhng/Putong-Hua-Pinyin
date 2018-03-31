@@ -63,47 +63,20 @@ eg. 板南 **Bamnan**
 * ~j + j-時，前j改為**r**  
 eg. 直接 **Zhrjie**
 * 連寫依然無法避免歧意時（例如~e+en(g),~n+w-的情況），以撇號'隔音或者乾脆分開寫
-2. 兒化韻以**rl**表示
-eg. 花兒 **Huarl**
+2. 兒化韻以**rl**表示 eg. 花兒 **Huarl**
 3. 技術允許時，ng字尾可簡寫為**ñ**
-4. 形容詞字尾"~的"直接在詞後加**d**，"的"表從屬關係時則加撇號'
-* 西方的文化 **Shifañd Wenhua** , 他的書 **Ta'd Shu**
-5. 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr**
-* 安全地傳輸 **Anchuandy Chwanshu** , 跑得快 **Paodr Quai**
-6. 完成式字尾"~了"直接在詞後加**l**，進行式字尾"~著"直接在詞後加**z**
-eg. 吃飽了撐著 **Chjbaolchengz**
-7. 字尾“~們”直接在詞後加**m**
-eg. 群眾們 **Cheunzhongm**
+4. 詞尾變化
+* 形容詞字尾"~的"直接在詞後加**d** eg. 西方的文化 **Shifañd Wenhua**
+* 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr** eg. 安全地傳輸 **Anchuandy Chwanshu** , 跑得快 **Paodr Quai**
+* 完成式詞尾"~了"直接在詞後加**l**，進行式詞尾"~著"直接在詞後加**'t**
+eg. 吃飽了撐著 **Chjbaol cheng't**
+* 詞尾“~子”直接在詞後加**z** eg. 桌子 **Zhuoz**，椅子 **Yeez**， 帽子**Maoz**
+* 詞尾“~們”直接在詞後加**m** eg. 群眾們 **Cheunzhongm**
 8. 人身代名詞：你**ni** 我**wo** 他**ta** 你們**nm** 我們**wm** 他們**tm**
-9. “是”接在前一字尾端加**s**，可用詞尾’t表否定
-10. 重複的字在字後加**x**代表重複
-eg. 好好看 **Haox Kan**
-11. 虛詞直接加在詞尾並縮寫：嗎/伐 **v?** 吧 **b./b?** 唄 **b!** ，其餘**呢嗎喔噢**僅連寫不縮寫
-12. 數字與單位分開，不連寫；若有需要與其他詞連寫而會產生岐意時，以短橫-分隔
-13. 其餘比照《漢語拼音正詞法基本規則》處理
-
-# 範例 Example
-  
-中文：區塊鏈技術的應用與未來  
-漢拼：Qu Kuai Lian Ji Shu De Ying Yong Yu Wei Lai  
-ＰＨ：Cheu Quai Lian Ji Shu De Ying Yung Yeu Wei Lai  
-  
-中文：東邊日出西邊雨，道是無晴卻有晴。  
-漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＰＨ：Dong Bian Rj Chu Shee Bian Yeu, Dao Shj Wu Ching Chiue You Ching.  
- 
-中文：君不見高堂明鏡悲白髮朝如青絲暮成雪  
-漢拼：Jun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Qing Si Mu Cheng Xue   
-ＰＨ：Juen Bu Jian Kao Tang Ming Jing Bei Bai Fa Zhao Ru Ching Sj Mu Cheng Siue
-
-中文：青青河畔草，鬱鬱園中柳。  
-漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
-ＰＨ：Ching Ching Her Pan Tsao, Yeu Yeu Yuan Zhong Liou.  
-  
-中文：願君多採擷，此物最相思。  
-漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Juen Duo Tsai Jie, Tsj Wu Zuei Siang Sj.
-
-# 感謝 Sepcial Thanks to
-感謝PTT站友**Thirdshadow**在早期編寫過程提供的寶貴意見。   
+9. “是”接在前一字尾端加**s**
+10. "不~"簡寫為**b'**，"不是~"簡寫為**bs**
+11. 重複的字在字後加**x**代表重複 eg. 好好看 **Haox Kan**
+12. 虛詞直接加在詞尾並縮寫：嗎/伐 **v?** 吧 **b./b?** 唄 **b!** ，其餘**呢嗎喔噢**僅連寫不縮寫
+13. 數字與單位分開，不連寫；若有需要與其他詞連寫而會產生岐意時，以短橫-分隔
+14. 其餘比照《漢語拼音正詞法基本規則》處理  
 
