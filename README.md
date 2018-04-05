@@ -6,7 +6,7 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**ＰＨ**|b|p|m|f|d|t|n|l|**k**|**kh**|h|j|**ch**|**s**
 |**注音**|**ㄓzh**|**ㄔch**|**ㄕsh**|**ㄖr**|**ㄗz**|**ㄘc**|**ㄙs**|**ㄧy**|**ㄨw**|**ㄩy(u)**
-|**ＰＨ**|zh|ch|sh|r|z|**ts**|s|y|w|(y)
+|**ＰＨ**|zh|**tsh**|sh|r|z|**ts**|s|y|w|(y)
 
 ## 單韻母 Single Vowels
 |**注音**|ㄧi|ㄨu|ㄩü|ㄚa|ㄛo|ㄜe|ㄝê|ㄦer|ㄭi
@@ -48,7 +48,7 @@
 
 |**數字**|一|二|三|四|五|六|七|八|九|十|百|千|萬|億
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| :----:|
-|**ＰＨ**|yee|jrl|sam|sij|wgu|liu|qhi|bha|jiu|shr|ba|kien|van|yir
+|**ＰＨ**|yee|jrl|sam|sij|wgu|liu|cht|bat|jiu|shr|ba|kien|van|yir
 
 數字作為專有名詞或成語用字時，採用原寫法 eg. 億載金城 Yee Zai Jin Cheng
 
@@ -61,24 +61,16 @@
 
 ## 聲調 Tones
 原則上不標，需要時以**全大寫**引用附音調的漢語拼音。
-eg. 在今天早上的過程中看到 ZÀI JĪNTIĀN zaoshangd GÙOCHÉNG zhong KÀNDÀO (注意：過程、看到二字在PH拼音分別拼作kuocheng, qandao）
+eg. 在今天早上的過程中看到 ZÀI JĪNTIĀN zaoshangd GÙOCHÉNG zhong KÀNDÀO (注意：過程、看到二字在PH拼音分別拼作kuocheng, khandao）
 
 # 連寫法/正詞法 (beta)
-1. 連寫會產生歧意時，不使用隔音符號，以字尾變化處理
-* ~i + an/ou時, i改成**ee**  
-eg. 西安 **Xeean** , 尼歐 **Neeou**
-* ~n + an/en/ou時, n改成**hn**  
-eg. 灣岸 **Wahnan** ,  金恩 **Jihnen** , 泛歐 **Fahnou**
-* ~n + n-時, 前n改為**m**  
-eg. 板南 **Bamnan**
-* ~j + j-時，前j改為**r**  
-eg. 直接 **Zhrjie**
-* 連寫依然無法避免歧意時（例如~e+en(g),~n+w-的情況），以撇號'隔音或者乾脆分開寫
+1. 連寫會產生歧意時，以撇號'隔音
+* 例外：~j + j-時，前j改為**r** eg. 直接 **Zhrjie**
 2. 兒化韻以**rl**表示 eg. 花兒 **Huarl**
 3. 技術允許時，ng字尾可簡寫為**ñ**
 4. 詞尾變化
 * 形容詞字尾"~的"直接在詞後加**d** eg. 西方的文化 **Shifañd Wenhua**
-* 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr** eg. 安全地傳輸 **Anchuandy Chwanshu** , 跑得快 **Paodr Quai**
+* 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr** eg. 安全地傳輸 **Anchuandy Tshwanshu** , 跑得快 **Paodr Quai**
 * 完成式詞尾"~了"直接在詞後加**l**，進行式詞尾"~著"直接在詞後加**'t**
 eg. 吃飽了撐著 **Chjbaol cheng't**
 * 詞尾“~子”直接在詞後加**z** eg. 桌子 **Zhuoz**，椅子 **Yeez**， 帽子**Maoz**
