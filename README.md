@@ -23,9 +23,9 @@
 ## 結合韻母 Compound/Final Vowels
 |**注音**|ㄧㄝie|ㄩㄝüe|ㄧㄡiu|ㄨㄟui|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|ye|**yue**|**you**|**wei**|**yan**|**wan**|**yuan**|
+|**ＰＨ**|ye|**yue**|iou|**wei**|ian|**wan**|**yuan**|
 |**注音**|**ㄧㄣin**|**ㄨㄣun**|**ㄩㄣün**|**ㄧㄥing**|**ㄨㄥeng**|**ㄨㄥong**|**ㄩㄥiong**
-|**ＰＨ**|**yn**|**wen**|**yun**|**yng**|eng|ong|**yong**|
+|**ＰＨ**|in|**wen**|**yun**|ing|eng|ong|iong|
 * ㄧㄣ/ㄧㄥ單獨: yin/ying
 
 
