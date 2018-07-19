@@ -23,7 +23,7 @@
 ## 結合韻母 Compound/Final Vowels
 |**注音**|ㄧㄝie|ㄩㄝüe|ㄧㄡiu|ㄨㄟui|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|ye|**yue**|iou|**wei**|ian|**wan**|**yuan**|
+|**ＰＨ**|ye|**yue**|iou|**wei**|ian|**wan**|**uan**|
 |**注音**|**ㄧㄣin**|**ㄨㄣun**|**ㄩㄣün**|**ㄧㄥing**|**ㄨㄥeng**|**ㄨㄥong**|**ㄩㄥiong**
 |**ＰＨ**|in|**wen**|**yun**|ing|eng|ong|iong|
 * ㄧㄣ/ㄧㄥ單獨: yin/ying
