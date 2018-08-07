@@ -21,7 +21,7 @@
 ## 結合韻母 Compound/Final Vowels
 |**注音**|ㄧㄝie|ㄩㄝüe|ㄧㄡiu|ㄨㄟui|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|ie|**yue**|iou|**uei**|ian|uan|uan|
+|**ＰＨ**|ie|**yue**|**iou**|**uei**|ian|uan|uan|
 |**注音**|**ㄧㄣin**|**ㄨㄣun**|**ㄩㄣün**|**ㄧㄥing**|**ㄨㄥeng**|**ㄨㄥong**|**ㄩㄥiong**
 |**ＰＨ**|in|**uen**|**un**|ing|eng|ong|iong|
 
