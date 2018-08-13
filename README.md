@@ -1,5 +1,5 @@
 # Putong Hua Pinyin
-**Putong Hua Pinyin** (PH Pinyin) is a romanization system modified from Hanyu-Pinyin for spelling Modern Mandarin.
+**Putong Hua Pinyin** (PH Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin.
 # PH拼音對照表
 ## 聲母 Consonants
 |**注音**|ㄅb|ㄆp|ㄇm|ㄈf|ㄉd|ㄊt|ㄋn|ㄌl|ㄍg|ㄎk|ㄏh|
