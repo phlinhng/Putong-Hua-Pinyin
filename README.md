@@ -11,7 +11,7 @@
 ## 單韻母 Single Vowels
 |**注音**|ㄧi|ㄨu|ㄩü|ㄚa|ㄛo|ㄜe|ㄝê|ㄦer|ㄭi
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|i|u|**yu**|a|o|**er**|e|**err**|i 
+|**ＰＨ**|i|u|**eu**|a|o|**er**|e|er|i 
 
 ## 複韻母 Compound Vowels
 |**注音**|ㄢan|ㄣen|ㄤang|ㄥeng|ㄞai|ㄟei|ㄠao|ㄡou|
@@ -21,16 +21,21 @@
 ## 結合韻母 Compound/Final Vowels
 |**注音**|ㄧㄝie|ㄩㄝüe|ㄧㄡiu|ㄨㄟui|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|ie|**yue**|**iou**|**uei**|ian|uan|uan|
+|**ＰＨ**|ie|**eue**|**iou**|**uei**|ian|uan|uan|
 |**注音**|**ㄧㄣin**|**ㄨㄣun**|**ㄩㄣün**|**ㄧㄥing**|**ㄨㄥeng**|**ㄨㄥong**|**ㄩㄥiong**
-|**ＰＨ**|in|**uen**|un|ing|eng|ong|iong|
+|**ＰＨ**|in|**uen**|**eun**|ing|eng|ong|iong|
+
+## 零聲母規則 Zero Constants I,U,EU
+1. i開頭的韻母在零聲母時，將i改為y，寫成 yi（衣）、ya（呀）、ye（耶）、yao（腰）、you（優）、yan（煙）、yin（因）、yang（央）、ying（英）、yong（雍）；yi,yin,ying除外，此三字在開頭補y
+2. u開頭的韻母在零聲母時，將u改為w，寫成wu（烏）、wa（蛙）、wo（窩）、wai（外）、wei（威）、wan（彎）、wen（溫）、wang（汪）、weng（翁）；yuan（原）除外
+3. eu開頭的韻母在零聲母時，將e改為y，寫成 yu（於）、yue（約）、yuan（原）、yun（暈）
 
 # 連寫法/正詞法
 1. 連寫會產生歧意時，以撇號'隔音
 2. 兒化韻以**r**表示 eg. 花兒 **Huar**
-3. 技術允許時，ng字尾可簡寫為**ñ**
+3. 技術允許時，ng字尾可簡寫為**ŋ**
 4. 詞尾變化
-* 形容詞字尾"~的"直接在詞後加**d** eg. 西方的文化 **Xifañd Wenhua**
+* 形容詞字尾"~的"直接在詞後加**d** eg. 西方的文化 **Xifaŋd Wenhua**
 * 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr** eg. 安全地傳輸 **Ancuandy Chuanshu** , 跑得快 **Paodr Kuai**
 * 完成式詞尾"~了"直接在詞後加**l**，進行式詞尾"~著"直接在詞後加**'t**
 eg. 吃飽了撐著 **Chibaol cheng't**
