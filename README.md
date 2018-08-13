@@ -27,7 +27,7 @@
 
 ## 零聲母規則 Zero Constants I,U,EU
 1. i開頭的韻母在零聲母時，將i改為y，寫成 yi（衣）、ya（呀）、ye（耶）、yao（腰）、you（優）、yan（煙）、yin（因）、yang（央）、ying（英）、yong（雍）；yi,yin,ying除外，此三字在開頭補y
-2. u開頭的韻母在零聲母時，將u改為w，寫成wu（烏）、wa（蛙）、wo（窩）、wai（外）、wei（威）、wan（彎）、wen（溫）、wang（汪）、weng（翁）；yuan（原）除外
+2. u開頭的韻母在零聲母時，將u改為w，寫成 wu（烏）、wa（蛙）、wo（窩）、wai（外）、wei（威）、wan（彎）、wen（溫）、wang（汪）、weng（翁）；yuan（原）除外
 3. eu開頭的韻母在零聲母時，將e改為y，寫成 yu（於）、yue（約）、yuan（原）、yun（暈）
 
 # 連寫法/正詞法
