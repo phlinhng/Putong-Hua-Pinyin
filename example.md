@@ -6,11 +6,11 @@
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＰＨ：Dong Bian Rih Chu Xi Bian Yu, Dao Shih Wu Cing Ceue You Cing.  
+ＰＨ：Dong Bian Rhih Chu Xi Bian Yu, Dao Shih Wu Cing Ceue You Cing.  
  
 中文：君不見高堂明鏡悲白髮朝如青絲暮成雪  
 漢拼：Jun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Qing Si Mu Cheng Xue   
-ＰＨ：Jeun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Cing Sih Mu Cheng Xeue
+ＰＨ：Jeun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Rhu Cing Sih Mu Cheng Xeue
 
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
