@@ -14,9 +14,9 @@
 |**ＰＨ**|i|u|**eu**|a|o|**er**|e|er|**ih** 
 
 ## 複韻母 Compound Vowels
-|**注音**|ㄢan|ㄣen|ㄤang|ㄥeng|ㄞai|ㄟei|ㄠao|ㄡou|
+|**注音**|ㄞai|ㄟei|ㄠao|ㄡou|ㄢan|ㄣen|ㄤang|ㄥeng|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|an|en|ang|eng|ai|ei|ao|ou
+|**ＰＨ**|ai|ei|ao|ou|an|en|ang|eng
 
 ## 結合韻母 Compound/Final Vowels
 |**注音**|ㄧㄝie|ㄩㄝüe|ㄧㄡiu|ㄨㄟui|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|
