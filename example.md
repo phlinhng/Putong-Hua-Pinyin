@@ -18,7 +18,7 @@
   
 中文：願君多採擷，此物最相思。  
 漢拼：Yuan Jun Duo Cai Jie, Ci Wu Zui Xiang Si.  
-ＰＨ：Yuan Jeun Duo Tsai Jie, Tsi Wu Zuei Xiang Si.
+ＰＨ：Yuan Jeun Duo Tsai Jiie, Tsi Wu Zuei Xiang Si.
 
 # 感謝 Sepcial Thanks to
 感謝PTT站友**Thirdshadow**在早期編寫過程提供的寶貴意見。
