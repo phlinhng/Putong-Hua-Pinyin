@@ -1,31 +1,31 @@
-代碼,地區,地區英文名稱,縮寫
-11,北京市,Beijing City,BJ
-12,天津市,Tianjin City,TJ
-13,河北省,Hebei Province,HE
-14,山西省,Shansi Province,SX
-15,內蒙古自治區,Inner Mongolia AR,IM
-21,遼寧省,Liaoning Province,LN
-22,吉林省,Jilin Province,JL
-23,黑龍江省,Heilongjiang Province,HL
-31,上海市,Shanghai City,SH
-32,江蘇省,Jiangsu Province,JS
-33,浙江省,Jhejiang Province,ZJ
-34,安徽省,Anhui Province,AH
-35,福建省,Fujian Province,FJ
-36,江西省,Jiangsi Province,JX
-37,山東省,Shandong Province,SD
-41,河南省,Henan Province,HA
-42,湖北省,Hubei Province,HB
-43,湖南省,Hunan Province,HN
-44,廣東省,Canton Province,CT
-45,廣西壯族自治區,Guangsi Jhuang AR,GX
-46,海南省,Hainan Province,HI
-51,四川省,Szechuan Province,SC
-52,貴州省,Guijhou Province,GJ
-53,雲南省,Yunnan Province,YN
-54,西藏自治區,Tibet AR,TB
-61,陝西省,Shaansi Province,SA
-62,甘肅省,Gansu Province,GS
-63,青海省,Cinghai Province,CH
-64,寧夏回族自治區,Ningsia Hui AR,NX
-65,新疆維吾爾自治區,Sinkiang Uyghur AR,SK
+代碼,地區,首府,首府英文名稱
+11,北京市,北京,Beijing
+12,天津市,天津,Tianjin
+13,河北省,石家莊,Shijiajhuang
+14,山西省,太原市,Taiyuan
+15,內蒙古自治區,呼和浩特,Hohhot
+21,遼寧省,瀋陽,Shenyang
+22,吉林省,長春,Changchun
+23,黑龍江省,哈爾濱,Harbin
+31,上海市,上海,Shanghai
+32,江蘇省,南京,Nanjing
+33,浙江省,杭州,Hangjhou
+34,安徽省,合肥,Hefei
+35,福建省,福州,Fujhou
+36,江西省,南昌,Nanchang
+37,山東省,濟南,Jinan
+41,河南省,鄭州,Jhenjhou
+42,湖北省,武漢,Wuhan
+43,湖南省,長沙,Changsha
+44,廣東省,廣州,Canton
+45,廣西壯族自治區,南寧,Nanning
+46,海南省,海口,Haikou
+51,四川省,成都,Chengtu
+52,貴州省,貴陽,Guiyang
+53,雲南省,昆明,Kunming
+54,西藏自治區,拉薩,Lhasa
+61,陝西省,西安,Sian
+62,甘肅省,蘭州,Lanjhou
+63,青海省,西寧,Sining
+64,寧夏回族自治區,銀川,Yinchuan
+65,新疆維吾爾自治區,烏魯木齊,Urumchi
