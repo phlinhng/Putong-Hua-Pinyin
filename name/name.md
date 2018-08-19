@@ -3,5 +3,5 @@
 2. 姓名之排列採用**東方序**，姓前名後，姓名之間空一格
 3. 各單字以**連續不中斷**之方式書寫 eg. 王大明 Wang Daming
 * 需要區隔單字時，以'(隔音符號)隔音 eg. 歐陽國華 Ouyang Guo'hua
-* 複姓以連續不中斷之方式書寫 eg. 司馬家文 Sima Jiawen
+* 複姓以連續不中斷之方式書寫 eg. 司馬中文 Sima Jhongwen
 * 雙姓以-(連字號)連接 eg. 馮蘇王杜 Feng-su Wangdu
