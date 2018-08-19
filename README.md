@@ -23,12 +23,12 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**ＰＨ**|**iiê**|**yuê**|**iou**|**uei**|ian|uan|**yuan**|
 |**注音**|**ㄧㄣin**|**ㄨㄣun**|**ㄩㄣün**|**ㄧㄥing**|**ㄨㄥeng**|**ㄨㄥong**|**ㄩㄥiong**
-|**ＰＨ**|in|un|**yun**|ing|eng|ong|iong|
+|**ＰＨ**|in|un|**yun**|ing|eng|ong|**yung**|
 
 ## 零聲母規則 Zero Consonants I,U,YU
-1. i（ㄧ）開頭的韻母在零聲母時，將i改為y，寫成 yi（衣）、ya（呀）、ye（耶）、yao（腰）、you（優）、yan（煙）、yin（因）、yang（央）、ying（英）、yong（雍）；yi,yin,ying除外，此三字在開頭補y
+1. i（ㄧ）開頭的韻母在零聲母時，將i改為y，寫成 yi（衣）、ya（呀）、ye（耶）、yao（腰）、you（優）、yan（煙）、yin（因）、yang（央）、ying（英）；yi,yin,ying除外，此三字在開頭補y
 2. u（ㄨ）開頭的韻母在零聲母時，將u改為w，寫成 wu（烏）、wa（蛙）、wo（窩）、wai（外）、wei（威）、wan（彎）、wen（溫）、wang（汪）、weng（翁）；wu除外，單獨使用在開頭補w
-3. yu（ㄩ）開頭的韻母在零聲母時，寫成 yu（於）、yue（約）、yuan（原）、yun（運）
+3. yu（ㄩ）開頭的韻母在零聲母時，寫成 yu（於）、yue（約）、yuan（原）、yun（運）、yung（用）
 
 ## 備註
 1. 基漆西韻母雙寫，寫成jii（基）、cii（漆）、sii（西）
