@@ -1,6 +1,6 @@
-# Putong Hua Pinyin
-**Putong Hua Pinyin** (Hua Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin.
-# PH拼音對照表
+# Standard Huayu Pinyin 標準華語拼音
+**Standard Huayu Pinyin** (Hua Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin(現代標準華語).
+# 字母表
 ## 聲母 Consonants
 |**注音**|ㄅb|ㄆp|ㄇm|ㄈf|ㄉd|ㄊt|ㄋn|ㄌl|ㄍg|ㄎk|ㄏh|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -45,13 +45,12 @@
 
 # 連寫法/正詞法
 1. 隔音符號：以撇號'隔音 eg. 吉安 Jii'an
-
-4. 詞尾變化
+2. 詞尾變化
 * 形容詞字尾"~的"直接在詞後加**d** eg. 西方的文化 **Siifaŋd Wenhua**
 * 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr** eg. 安全地傳輸 **Ancyuandy Chuanshu** , 跑得快 **Paodr Kuai**
 * 完成式詞尾"~了"直接在詞後加**l**，進行式詞尾"~著"直接在詞後加't
 eg. 吃飽了撐著 **Chibaol cheng't**
 * 詞尾“~子”直接在詞後加**z** eg. 桌子 **Jhuoz**，椅子 **Yiz**， 帽子**Maoz**
 * 詞尾“~們”直接在詞後加**m** eg. 群眾們 **Cyunjhongm**
-5. 數字與單位分開，不連寫；若有需要與其他詞連寫而會產生岐意時，以短橫-分隔
-6. 其餘比照《漢語拼音正詞法基本規則》處理
+3. 數字與單位分開，不連寫；若有需要與其他詞連寫而會產生岐意時，以短橫-分隔
+4. 其餘比照《漢語拼音正詞法基本規則》處理
