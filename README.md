@@ -1,5 +1,5 @@
 # Standard Huayu Pinyin 標準華語拼音
-**Standard Huayu Pinyin** (Hua Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin(現代標準華語).
+**Standard Huayu Pinyin** (Hua Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin (現代標準華語).
 # 字母表
 ## 聲母 Consonants
 |**注音**|ㄅb|ㄆp|ㄇm|ㄈf|ㄉd|ㄊt|ㄋn|ㄌl|ㄍg|ㄎk|ㄏh|
