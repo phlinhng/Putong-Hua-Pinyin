@@ -53,4 +53,4 @@ eg. 吃飽了撐著 **Chibaol cheng't**
 * 詞尾“~子”直接在詞後加**z** eg. 桌子 **Jhuoz**，椅子 **Yiz**， 帽子**Maoz**
 * 詞尾“~們”直接在詞後加**m** eg. 群眾們 **Cyunjhongm**
 3. 數字與單位分開，不連寫；若有需要與其他詞連寫而會產生岐意時，以短橫-分隔
-4. 其餘比照《漢語拼音正詞法基本規則》處理
+4. 其餘比照[《漢語拼音正詞法基本規則》](http://www.pinyin.info/rules/pinyinrules.html)處理
