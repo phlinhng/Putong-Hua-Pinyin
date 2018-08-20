@@ -1,29 +1,29 @@
 # Putong Hua Pinyin
-**Putong Hua Pinyin** (PH Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin.
+**Putong Hua Pinyin** (Hua Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin.
 # PH拼音對照表
 ## 聲母 Consonants
 |**注音**|ㄅb|ㄆp|ㄇm|ㄈf|ㄉd|ㄊt|ㄋn|ㄌl|ㄍg|ㄎk|ㄏh|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|b|p|m|f|d|t|n|l|g|k|h|
+|**Hua**|b|p|m|f|d|t|n|l|g|k|h|
 |**注音**|**ㄐj**|**ㄑq**|**ㄒx**|**ㄓzh**|**ㄔch**|**ㄕsh**|**ㄖr**|**ㄗz**|**ㄘc**|**ㄙs**|
-|**ＰＨ**|j|**c**|**s**|**jh**|ch|sh|r|z|**ts**|s|
+|**Hua**|j|**c**|**s**|**jh**|ch|sh|r|z|**ts**|s|
 
 ## 單韻母 Single Vowels
 |**注音**|ㄧi|ㄨu|ㄩü|ㄚa|ㄛo|ㄜe|ㄝê|ㄦer|币i
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|i|u|**yu**|a|o|**er**|ê|**êr**|**ï**
+|**Hua**|i|u|**yu**|a|o|**er**|ê|**êr**|**ï**
 
 ## 複韻母 Compound Vowels
 |**注音**|ㄞai|ㄟei|ㄠao|ㄡou|ㄢan|ㄣen|ㄤang|ㄥeng|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|ai|ei|ao|ou|an|en|ang|eng
+|**Hua**|ai|ei|ao|ou|an|en|ang|eng
 
 ## 結合韻母 Compound/Final Vowels
 |**注音**|ㄧㄝiê|ㄩㄝüê|ㄧㄡiu|ㄨㄟui|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**ＰＨ**|**iiê**|**yuê**|**iou**|**uei**|ian|uan|**yuan**|
+|**Hua**|**iiê**|**yuê**|**iou**|**uei**|ian|uan|**yuan**|
 |**注音**|**ㄧㄣin**|**ㄨㄣun**|**ㄩㄣün**|**ㄧㄥing**|**ㄨㄥeng**|**ㄨㄥong**|**ㄩㄥiong**
-|**ＰＨ**|in|un|**yun**|ing|eng|ong|**yung**|
+|**Hua**|in|un|**yun**|ing|eng|ong|**yung**|
 
 ## 零聲母規則 Zero Consonants I,U,YU
 1. i（ㄧ）開頭的韻母在零聲母時，將i改為y，寫成 yi（衣）、ya（呀）、ye（耶）、yao（腰）、you（優）、yan（煙）、yin（因）、yang（央）、ying（英）；yi,yin,ying除外，此三字在開頭補y
@@ -44,7 +44,8 @@
 * 標原調，不標變調
 
 # 連寫法/正詞法
-1. 隔音符號：以撇號'隔音 eg. 吉安 Jii'an
+1. 隔音符號：以撇號'隔音 eg. 吉安 Jii'an
+
 4. 詞尾變化
 * 形容詞字尾"~的"直接在詞後加**d** eg. 西方的文化 **Siifaŋd Wenhua**
 * 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr** eg. 安全地傳輸 **Ancyuandy Chuanshu** , 跑得快 **Paodr Kuai**
