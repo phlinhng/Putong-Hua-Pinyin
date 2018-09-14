@@ -1,6 +1,6 @@
 # 華語地名轉寫規則
 1. 地名之譯寫，以音譯為原則。譯寫時應套用**標準華語地名拼音**
-* 縮寫：**yi→y，yie→ie, iou→iu, uei→ui** eg. Jylin, Liuzhou, Anhui
+* 縮寫：**yi→y，yie→ie, iou→iu** eg. Jylin, Liuzhou
 * 調整：**ㄜer→e** eg. Hebei
 2. 存在傳統、民族、國際慣用或地方語言拼法（名稱）者，可從之
 3. 首字母大寫，整體名稱連寫，以'作爲隔音符號。地名與屬性名稱之間應空一格 eg. Beijing City
