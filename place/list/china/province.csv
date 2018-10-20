@@ -1,7 +1,7 @@
 代碼,地區,簡稱,地區外文名稱,縮寫
 11,北京市,京,Beijing City,BJ
 12,天津市,津,Tianjin City,TJ
-13,河北省,冀,Hebei Province,HE
+13,河北省,冀,Herbei Province,HE
 14,山西省,晉,Shansy Province,SX
 15,內蒙古自治區,蒙,Inner Mongolia AR,IM
 21,遼寧省,遼,Liaoning Province,LN
@@ -9,12 +9,12 @@
 23,黑龍江省,黑,Heilongjiang Province,HL
 31,上海市,滬,Shanghai City,SH
 32,江蘇省,蘇,Jiangsu Province,JS
-33,浙江省,浙,Zhejiang Province,ZJ
+33,浙江省,浙,Zherjiang Province,ZJ
 34,安徽省,皖,Anhui Province,AH
 35,福建省,閩,Fujian Province,FJ
 36,江西省,贛,Jiangsy Province,JX
 37,山東省,魯,Shandong Province,SD
-41,河南省,豫,Henan Province,HA
+41,河南省,豫,Hernan Province,HA
 42,湖北省,鄂,Hubei Province,HB
 43,湖南省,湘,Hunan Province,HN
 44,廣東省,粵,Canton Province,CT
@@ -28,4 +28,4 @@
 62,甘肅省,隴,Gansu Province,GS
 63,青海省,青,Cinghai Province,CH
 64,寧夏回族自治區,寧,Ningsia Huei AR,NX
-65,新疆維吾爾自治區,新,Sinkiang Uyghur AR,SK
+65,新疆維吾爾自治區,新,Sinjiang Uyghur AR,SK
