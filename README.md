@@ -23,7 +23,7 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**Hua**|iê|**iuê**|**iou**|**üi**|ian|uan|**iuan**|
 |**注音**|**ㄧㄣin**|**ㄨㄣun**|**ㄩㄣün**|**ㄧㄥing**|**ㄨㄥeng**|**ㄨㄥong**|**ㄩㄥiong**
-|**Hua**|in|un|**iun**|ing|eng|ong|**iung**|
+|**Hua**|in|un|**iun**|ing|eng|ong|iong|
 
 ## 零聲母規則 Zero Consonants I,U,YU
 1. i（ㄧ）、iu（ㄩ）開頭的韻母在零聲母時，將i改為y，寫成 yi（衣）、ya（呀）、ye（耶）、yao（腰）、you（優）、yan（煙）、yin（因）、yang（央）、ying（英）、yu（於）、yue（約）、yuan（原）、yun（運）、yung（用）
