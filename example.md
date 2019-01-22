@@ -10,7 +10,7 @@
  
 中文：君不見高堂明鏡悲白髮朝如青絲暮成雪  
 漢拼：Jun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Qing Si Mu Cheng Xue   
-ＰＨ：Jyun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Cing Si Mu Cheng Seue
+ＰＨ：Jeun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Cing Si Mu Cheng Seue
 
 中文：青青河畔草，鬱鬱園中柳。  
 漢拼：Qing Qing He Pan Cao, Yu Yu Yuan Zhong Liu.  
