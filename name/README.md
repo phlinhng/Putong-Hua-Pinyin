@@ -5,7 +5,7 @@
 * 需要區隔單字時，以'(隔音符號)隔音 eg. 歐陽齊華 Ouyang Ci'hua
 * 複姓以連續不中斷之方式書寫 eg. 司馬中文 Sima Zhongwen
 * 雙姓以-(連字號)連接 eg. 馮蘇王度 Feng-su Wangdu
-4. 漢語系各語言發音譯寫方案（Hua Pinyin）
+4. 漢語系各語言發音譯寫方案
 * 標準華語：[標準華語拼音](https://github.com/phlinhng/hua-pinyin/blob/master/README.md)（Hua Pinyin）
 * 粵語：[香港教育學院拼音方案](https://en.wikipedia.org/wiki/Cantonese_Pinyin)（教院式）
 * 閩南語：[臺灣閩南語羅馬字拼音方案](https://en.wikipedia.org/wiki/Taiwanese_Romanization_System)（台羅）
