@@ -5,7 +5,7 @@
 4. 山河之屬性名稱，如山、川、河、江、湖等，應一併轉寫。eg. Zhuoshuisii River, Riyuetan Lake, Yushan Mountain
 5. 道路名稱轉寫規則
 * 含有方向詞者，方向詞應視為道路名稱之整體，音譯寫出 eg. Nanjingdong Road（南京東路）
-* 源於中文地名者，無論來源地名是否為特殊拼法，一律按地名拼音音譯 eg. Siizangzhong Road（西藏東路）
+* 源於中文地名者，無論來源地名是否為特殊拼法，一律按地名拼音音譯 eg. Siizangzhong Road（西藏中路）
 * 源於外文名稱者，依原外文寫法書寫
 5. 行政區域及行政編組屬性名稱之譯寫方式，例示如下：
 * 省：Province
