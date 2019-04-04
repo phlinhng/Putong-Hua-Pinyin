@@ -1,5 +1,5 @@
 # Standard Hwayu Pinyin 標準華語拼音
-**Standard Huayu Pinyin** (Hwa Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin (現代標準華語).
+**Standard Hwayu Pinyin** (Hwa Pinyin) is a romanization system modified from Hanyu Pinyin for spelling Modern Mandarin (現代標準華語).
 # 字母表
 ## 聲母 Consonants
 |**注音**|ㄅb|ㄆp|ㄇm|ㄈf|ㄉd|ㄊt|ㄋn|ㄌl|ㄍg|ㄎk|ㄏh|
@@ -11,7 +11,7 @@
 ## 單韻母 Single Vowels
 |**注音**|ㄧi|ㄨu|ㄩü|ㄚa|ㄛo|ㄜe|ㄝê|ㄦer|帀i
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**Hua**|i|w|**yu**|a|o|**er**|ê|**êr**|**ï**
+|**Hua**|i|**w**|**yu**|a|o|**er**|ê|**êr**|**ï**
 
 ## 複韻母 Compound Vowels
 |**注音**|ㄞai|ㄟei|ㄠao|ㄡou|ㄢan|ㄣen|ㄤang|ㄥeng|
