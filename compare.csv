@@ -11,7 +11,7 @@
 ㄅㄧ,bi,bi,pi
 ㄅㄧㄝ,bie,bie,pieh
 ㄅㄧㄠ,biao,biao,piao
-ㄅㄧㄢ,bian,bian,pien
+ㄅㄧㄢ,bien,bian,pien
 ㄅㄧㄣ,bin,bin,pin
 ㄅㄧㄥ,bing,bing,ping
 ㄅㄨ,bu,bu,pu
@@ -28,7 +28,7 @@
 ㄆㄧ,pi,pi,p'i
 ㄆㄧㄝ,pie,pie,p'ieh
 ㄆㄧㄠ,piao,piao,p'iao
-ㄆㄧㄢ,pian,pian,p'ien
+ㄆㄧㄢ,pien,pian,p'ien
 ㄆㄧㄣ,pin,pin,p'in
 ㄆㄧㄥ,ping,ping,p'ing
 ㄆㄨ,pu,pu,p'u
@@ -47,7 +47,7 @@
 ㄇㄧㄝ,mie,mie,mieh
 ㄇㄧㄠ,miao,miao,miao
 ㄇㄧㄡ,miou,miu,miu
-ㄇㄧㄢ,mian,mian,mien
+ㄇㄧㄢ,mien,mian,mien
 ㄇㄧㄣ,min,min,min
 ㄇㄧㄥ,ming,ming,ming
 ㄇㄨ,mu,mu,mu
@@ -73,7 +73,7 @@
 ㄉㄧㄝ,die,die,tieh
 ㄉㄧㄠ,diao,diao,tiao
 ㄉㄧㄡ,diou,diu,tiu
-ㄉㄧㄢ,dian,dian,tien
+ㄉㄧㄢ,dien,dian,tien
 ㄉㄧㄤ,diang,diang,tiang
 ㄉㄧㄥ,ding,ding,ting
 ㄉㄨ,du,du,tu
@@ -94,7 +94,7 @@
 ㄊㄧ,ti,ti,t'i
 ㄊㄧㄝ,tie,tie,t'ieh
 ㄊㄧㄠ,tiao,tiao,t'iao
-ㄊㄧㄢ,tian,tian,t'ien
+ㄊㄧㄢ,tien,tian,t'ien
 ㄊㄧㄥ,ting,ting,t'ing
 ㄊㄨ,tu,tu,t'u
 ㄊㄨㄛ,tuo,tuo,t'o
@@ -117,7 +117,7 @@
 ㄋㄧㄝ,nie,nie,nieh
 ㄋㄧㄠ,niao,niao,niao
 ㄋㄧㄡ,niou,niu,niu
-ㄋㄧㄢ,nian,nian,nien
+ㄋㄧㄢ,nien,nian,nien
 ㄋㄧㄣ,nin,nin,nin
 ㄋㄧㄤ,niang,niang,niang
 ㄋㄧㄥ,ning,ning,ning
@@ -143,7 +143,7 @@
 ㄌㄧㄝ,lie,lie,lieh
 ㄌㄧㄠ,liao,liao,liao
 ㄌㄧㄡ,liou,liu,liu
-ㄌㄧㄢ,lian,lian,lien
+ㄌㄧㄢ,lien,lian,lien
 ㄌㄧㄣ,lin,lin,lin
 ㄌㄧㄤ,liang,liang,liang
 ㄌㄧㄥ,ling,ling,ling
@@ -217,7 +217,7 @@
 ㄐㄧㄝ,jie,jie,chieh
 ㄐㄧㄠ,jiao,jiao,chiao
 ㄐㄧㄡ,jiou,jiu,chiu
-ㄐㄧㄢ,jian,jian,chien
+ㄐㄧㄢ,jien,jian,chien
 ㄐㄧㄣ,jin,jin,chin
 ㄐㄧㄤ,jiang,jiang,chiang
 ㄐㄧㄥ,jing,jing,ching
@@ -409,4 +409,4 @@
 ㄩㄝ,yue,yue,yüeh
 ㄩㄢ,yuan,yuan,yüan
 ㄩㄣ,yun,yun,yün
-ㄩㄥ,yung,yong,yung
+ㄩㄥ,yong,yong,yung
