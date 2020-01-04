@@ -30,7 +30,7 @@
 2. w（ㄨ）單獨成字時，寫成 wu（烏）；un（ㄨㄣ)單獨成字時，寫成wen（溫）
 
 ## 整體識讀
-ji、ci、xi、zhj、chj、shj、rhj、zj、tze、sze
+ji、ci、sy、zhj、chj、shj、rhj、zj、tze、sze
 
 ## 備註
 1. 基漆西韻母寫成ji（基）、ci（漆）、**sy（西）**
