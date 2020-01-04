@@ -2,11 +2,18 @@ hanyu,hwa
 q*,c*
 xi, xi
 xi*,si*
+^[zcs]hi$,[zh/ch/sh]j
+^[rz]i$,[r/z]hj
+^[cs]i$,[ts/s]ze
 ^c[aeou],ts[a/e/o/u]*
-"*ue,*ve,*üe",*yue
+^[nljqx]u,[n/l/j/c/s]yu*
+ei$, *ey
 iu$,*iou
-ian$,*ien
 you,yoo
+^[jqx]uan$,[j/q/x]oan
+ian$,*ien
+un$,*
+
 
 
 
