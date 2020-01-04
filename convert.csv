@@ -5,6 +5,7 @@ hanyu,hwa
 ^[rz]i$,[r/z]hj
 ^[cs]i$,[ts/s]ze
 ^c[aeou],ts[a/e/o/u]*
+"^[dtnlgkhzs]e$ || ^[zcst].e$", *
 ei$, *ey
 iu$,*iou
 you,yoo
