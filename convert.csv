@@ -1,12 +1,10 @@
 hanyu,hwa
-q*,c*
-xi, xi
-xi*,si*
+^[q/x],[c/s]*
+^[nljqx]u,[n/l/j/c/s]yu*
 ^[zcs]hi$,[zh/ch/sh]j
 ^[rz]i$,[r/z]hj
 ^[cs]i$,[ts/s]ze
 ^c[aeou],ts[a/e/o/u]*
-^[nljqx]u,[n/l/j/c/s]yu*
 ei$, *ey
 iu$,*iou
 you,yoo
