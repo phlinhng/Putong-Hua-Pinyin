@@ -21,12 +21,12 @@
 ## 結合韻母 Compound/Final Vowels
 |**注音**|ㄧㄝiê|ㄩㄝüê|ㄧㄡiu|ㄨㄟui|ㄧㄢian|ㄨㄢuan|ㄩㄢüan|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|**Hua**|iê|**yuê**|**io**|**üi**|**ien**|**wan**|**oan**|
+|**Hua**|iê|**yuê**|**iou**|**üi**|**ien**|**wan**|**oan**|
 |**注音**|**ㄧㄣin**|**ㄨㄣun**|**ㄩㄣün**|**ㄧㄥing**|**ㄨㄥeng**|**ㄨㄥong**|**ㄩㄥiong**
 |**Hua**|in|un|**eun**|ing|eng|ong|iong|
 
 ## 零聲母規則 Zero Consonants I,W,YU
-1. i（ㄧ）、yu（ㄩ）開頭的韻母在零聲母時，將i改為y，寫成 yi（衣）、ya（呀）、ye（耶）、yao（腰）、yoo（優）、yen（煙）、yin（因）、yang（央）、ying（英）、yu（於）、yue（約）、yuan（原）、yun（運）、yong（用）
+1. i（ㄧ）、yu（ㄩ）開頭的韻母在零聲母時，將i改為y，寫成 yi（衣）、ya（呀）、ye（耶）、yao（腰）、**yoo（優）**、yen（煙）、yin（因）、yang（央）、ying（英）、yu（於）、yue（約）、yuan（原）、yun（運）、yong（用）
 2. w（ㄨ）單獨成字時，寫成 wu（烏）；un（ㄨㄣ)單獨成字時，寫成wen（溫）
 
 ## 整體識讀
