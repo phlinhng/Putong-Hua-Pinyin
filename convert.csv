@@ -1,14 +1,12 @@
 hanyu,hwa
-"*v*,*ü*",*yu*
-"qu*,qv*,qio*",cyu*
-"xu*,xv*,xio*",syu*
 q*,c*
 xi, xi
 xi*,si*
-"*ue,*ve,*üe",*yue
 ^c[aeou],ts[a/e/o/u]*
+"*ue,*ve,*üe",*yue
 iu$,*iou
 ian$,*ien
+you,yoo
 
 
 
