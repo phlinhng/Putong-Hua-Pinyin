@@ -33,7 +33,7 @@
 ji、ci、xi、zhj、chj、shj、rhj、zj、tze、sze
 
 ## 備註
-1. 基漆西韻母寫成ji（基）、ci（漆）、**xi（西）**
+1. 基漆西韻母寫成ji（基）、ci（漆）、**sy（西）**
 2. ㄨ結尾的字寫成**u**；鵝單獨成字寫成**e**
 3. 所有附加符號預設不寫出，僅作補充用途
 4. 兒化韻：以**rr**表示兒化韻 eg. 花兒 **Huarr**，鵝兒 **Err**
@@ -54,11 +54,11 @@ ji、ci、xi、zhj、chj、shj、rhj、zj、tze、sze
 # 連寫法/正詞法
 1. 隔音符號：以撇號'隔音 eg. 大安 **Da'an**
 2. 詞尾變化
-* 形容詞字尾"~的"直接在詞後加**d** eg. 西方的文化 **Siifaŋd Wenhua**
-* 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr** eg. 安全地傳輸 **Ancuandy Chwanshu** , 跑得快 **Paodr Kuai**
+* 形容詞字尾"~的"直接在詞後加**d** eg. 西方的文化 **Syfaŋd Wenhua**
+* 副詞字尾"~地"直接在詞後加**dy**，副詞字尾"~得"直接在詞後加**dr** eg. 安全地傳輸 **Ancuandy Chuanshu** , 跑得快 **Paodr Kuai**
 * 完成式詞尾"~了"直接在詞後加**l**，進行式詞尾"~著"直接在詞後加't
 eg. 吃飽了撐著 **Chibaol cheng't**
 * 詞尾“~子”直接在詞後加**z** eg. 桌子 **Zhuoz**，椅子 **Yiz**， 帽子**Maoz**
-* 詞尾“~們”直接在詞後加**m** eg. 群眾們 **Cunzhongm**
+* 詞尾“~們”直接在詞後加**m** eg. 群眾們 **Cyunzhongm**
 3. 數字與單位分開，不連寫；若有需要與其他詞連寫而會產生岐意時，以短橫-分隔
 4. 其餘比照[《漢語拼音正詞法基本規則》](http://www.pinyin.info/rules/pinyinrules.html)處理
