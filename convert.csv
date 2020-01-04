@@ -6,10 +6,7 @@ q*,c*
 xi, xi
 xi*,si*
 "*ue,*ve,*üe",*yue
-ca*,tsa*
-ce*,tse*
-co*,tso*
-cu*,tsu*
+^c[aeou],ts[a/e/o/u]*
 *iu,*iou
 *ian,*ien
 
