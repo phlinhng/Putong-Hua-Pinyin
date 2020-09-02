@@ -6,7 +6,7 @@
   
 中文：東邊日出西邊雨，道是無晴卻有晴。  
 漢拼：Dong Bian Ri Chu Xi Bian Yu, Dao Shi Wu Qing Que You Qing.  
-ＨＰ：Dong Bien Rhj Chu Xi Bien Yu, Dao Shj Wu Cing Cyue You Cing.  
+ＨＰ：Dong Bien Rhj Chu Si Bien Yu, Dao Shj Wu Cing Cyue You Cing.  
  
 中文：君不見高堂明鏡悲白髮朝如青絲暮成雪  
 漢拼：Jun Bu Jian Gao Tang Ming Jing Bei Bai Fa Zhao Ru Qing Si Mu Cheng Xue   
